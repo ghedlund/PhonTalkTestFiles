@@ -1,0 +1,24 @@
+@UTF8
+@Begin
+@Languages:	spa, glg
+@Participants:	CHI kid Target_Child
+@ID:	spa|test|CHI||male|Vite||Target_Child|||
+@Media:	vit1_06, audio
+@Date:	25-MAY-2017
+*CHI:	<un jesey [*]> [>] .
+%xpar:	jesey=jersey $PHO ;
+%xphon:	$OMI
+%com:	bracket problem in conversion
+*CHI:	<un jesey> [*] [<] .
+%xpar:	jesey=jersey $PHO ;
+%xphon:	$OMI
+*CHI:	<xxx león con paos [?]> [<].
+%com:	bracket problem
+*CHI:	<tes gatos> [/] [>] tes [*] gatos !
+*CHI:	mira el <gatin [: gato]> [=! gritando] !
+%com:	this is fine
+*CHI:	ah (.) la de la vaquina [: vaca] (.) bueno (.) <la de la vaquina [: vaca]> [>] .
+%com:	this is fine
+*CHI:	<e(l) niño vavo@c [= ! marchó]> [/] el niño vavo@c [= ! marchó] (.) el niño .
+*CHI:	<no me da tiempo a coger el [/] el> [//] <no me da tiempo a coger donde está Lili> [//] no me da tiempo a coger donde está +//.
+@End
