@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHAT 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns="http://www.talkbank.org/ns/talkbank"  
+	xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd" 
+
+Lang="eng" 
+Corpus="Events" 
+Id="action" 
+Date="2012-11-02" 
+Version="2.0.2"  >
+
+<Participants>
+
+<participant
+id="p0"
+name="Testy_McTester"
+role="Target_Child"
+language="eng"
+age="P12Y10M01DT0H0M0S"
+birthday="2000-01-01"
+sex="male" />
+	
+</Participants>
+	
+<comment type="Date">02-NOV-2012</comment> 
+<u who="p0"  uID="u0">
+<e><action></action> </e> 
+<t type="p"/> 
+<a type="comments"><![CDATA[Turns into '0' in CHAT, used for an 'empty' main line.]]></a> 
+</u>
+	
+</CHAT> 

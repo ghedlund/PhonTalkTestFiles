@@ -1,0 +1,9 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	p0 Testy_McTester Target_Child
+@ID:	eng|Events|p0|12;10.13|male|||Target_Child|||
+@Birth of p0:	01-JAN-2000
+@Date:	14-NOV-2012
+*p0:	hello &*MOT:wave  [x 3] .
+@End

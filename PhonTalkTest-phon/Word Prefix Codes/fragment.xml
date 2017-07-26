@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session version="PB1.2" corpus="Word Prefix Codes" id="fragment" xmlns="http://phon.ling.mun.ca/ns/phonbank">
+    <header>
+        <date>2012-10-19-03:30</date>
+        <language>eng</language>
+        <media></media>
+    </header>
+    <participants>
+        <participant id="p0">
+            <role>Target_Child</role>
+            <name>Testy McTester</name>
+            <group></group>
+            <sex>male</sex>
+            <education></education>
+            <birthday>2000-01-01-03:30</birthday>
+            <language>eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers/>
+    <tierOrder>
+        <tier font="default" locked="false" visible="true" tierName="Orthography"/>
+        <tier font="default" locked="false" visible="true" tierName="IPA Target"/>
+        <tier font="default" locked="false" visible="true" tierName="IPA Actual"/>
+        <tier font="default" locked="false" visible="true" tierName="Notes"/>
+        <tier font="default" locked="false" visible="true" tierName="Segment"/>
+    </tierOrder>
+    <transcript>
+        <u id="u0" speaker="p0">
+            <orthography>
+                <g>
+                    <w>hello</w>
+                    <w>&amp;world</w>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w>həˈloʊ</w>
+                    <w>ˈwʌɹld</w>
+                    <sb>
+                        <ph scType="O" indexes="0"/>
+                        <ph hiatus="true" scType="N" indexes="1"/>
+                        <ph scType="SS" indexes="2"/>
+                        <ph scType="O" indexes="3"/>
+                        <ph hiatus="true" scType="N" indexes="4"/>
+                        <ph hiatus="false" scType="N" indexes="5"/>
+                        <ph scType="WB" indexes="6"/>
+                        <ph scType="SS" indexes="7"/>
+                        <ph scType="O" indexes="8"/>
+                        <ph hiatus="true" scType="N" indexes="9"/>
+                        <ph scType="C" indexes="10"/>
+                        <ph scType="RA" indexes="11"/>
+                        <ph scType="RA" indexes="12"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w>əˈoʊ</w>
+                    <w>d</w>
+                    <sb>
+                        <ph hiatus="true" scType="N" indexes="0"/>
+                        <ph scType="SS" indexes="1"/>
+                        <ph hiatus="true" scType="N" indexes="2"/>
+                        <ph hiatus="false" scType="N" indexes="3"/>
+                        <ph scType="WB" indexes="4"/>
+                        <ph scType="OEHS" indexes="5"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="10">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 0"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 1"/>
+                    <phomap value="4 -1"/>
+                    <phomap value="5 -1"/>
+                    <phomap value="6 2"/>
+                    <phomap value="7 -1"/>
+                    <phomap value="8 -1"/>
+                    <phomap value="9 3"/>
+                </ag>
+            </alignment>
+        </u>
+    </transcript>
+</session>

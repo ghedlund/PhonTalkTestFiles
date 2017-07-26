@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session version="PB1.2" corpus="General" id="participant roles" xmlns="http://phon.ling.mun.ca/ns/phonbank">
+    <header>
+        <date>2004-10-22-03:30</date>
+        <language>eng</language>
+        <media></media>
+    </header>
+    <participants>
+        <participant id="p1">
+            <role>Target_Child</role>
+            <name>Target_Child</name>
+            <group></group>
+            <sex>male</sex>
+            <education></education>
+            <birthday>2000-01-01-03:30</birthday>
+            <language>eng</language>
+        </participant>
+        <participant id="p2">
+            <role>Target_Adult</role>
+            <name>Target_Adult</name>
+            <group></group>
+            <sex>female</sex>
+            <education></education>
+            <birthday>1988-01-01-03:30</birthday>
+            <language>eng</language>
+        </participant>
+        <participant id="p3">
+            <role>Child</role>
+            <name>Child</name>
+            <group></group>
+            <sex>male</sex>
+            <education></education>
+            <birthday>2000-01-01-03:30</birthday>
+            <language>eng</language>
+        </participant>
+        <participant id="p4">
+            <role>Mother</role>
+            <name>Mother</name>
+            <group></group>
+            <sex>female</sex>
+            <education></education>
+            <birthday>1988-10-22-03:30</birthday>
+            <language>eng</language>
+        </participant>
+        <participant id="p5">
+            <role>Father</role>
+            <name>Father</name>
+            <group></group>
+            <sex>male</sex>
+            <education></education>
+            <birthday>1982-10-22-03:30</birthday>
+            <language>eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers/>
+    <tierOrder>
+        <tier font="default" locked="false" visible="true" tierName="Orthography"/>
+        <tier font="default" locked="false" visible="true" tierName="IPA Target"/>
+        <tier font="default" locked="false" visible="true" tierName="IPA Actual"/>
+        <tier font="default" locked="false" visible="true" tierName="Notes"/>
+        <tier font="default" locked="false" visible="true" tierName="Segment"/>
+    </tierOrder>
+    <transcript>
+        <u excludeFromSearches="false" id="u0" speaker="p1">
+            <orthography>
+                <g/>
+            </orthography>
+            <ipaTier form="model">
+                <pg/>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg/>
+            </ipaTier>
+        </u>
+    </transcript>
+</session>

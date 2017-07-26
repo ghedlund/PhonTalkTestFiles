@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session version="PB1.2" corpus="Word Prefix Codes" id="unintelligible-with-pho" xmlns="http://phon.ling.mun.ca/ns/phonbank">
+    <header>
+        <date>2012-10-19-03:30</date>
+        <language>eng</language>
+        <media></media>
+    </header>
+    <participants>
+        <participant id="p0">
+            <role>Target_Child</role>
+            <name>Testy McTester</name>
+            <group></group>
+            <sex>male</sex>
+            <education></education>
+            <birthday>2000-01-01-03:30</birthday>
+            <language>eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers/>
+    <tierOrder>
+        <tier font="default" locked="false" visible="true" tierName="Orthography"/>
+        <tier font="default" locked="false" visible="true" tierName="IPA Target"/>
+        <tier font="default" locked="false" visible="true" tierName="IPA Actual"/>
+        <tier font="default" locked="false" visible="true" tierName="Notes"/>
+        <tier font="default" locked="false" visible="true" tierName="Segment"/>
+    </tierOrder>
+    <transcript>
+        <u id="u0">
+            <orthography>
+                <g>
+                    <w>yyy</w>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w>ao</w>
+                    <sb>
+                        <ph hiatus="true" scType="N" indexes="0"/>
+                        <ph hiatus="true" scType="N" indexes="1"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="2">
+                    <phomap value="-1 0"/>
+                    <phomap value="-1 1"/>
+                </ag>
+            </alignment>
+        </u>
+    </transcript>
+</session>

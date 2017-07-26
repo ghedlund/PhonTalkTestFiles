@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session version="PB1.2" corpus="General" id="outer-group-with-pho" xmlns="http://phon.ling.mun.ca/ns/phonbank">
+    <header>
+        <date>2012-11-02-03:30</date>
+        <language>eng</language>
+        <media></media>
+    </header>
+    <participants>
+        <participant id="p0">
+            <role>Target_Child</role>
+            <name>Testy McTester</name>
+            <group></group>
+            <sex>male</sex>
+            <education></education>
+            <birthday>2000-01-01-03:30</birthday>
+            <language>eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers/>
+    <tierOrder>
+        <tier font="default" locked="false" visible="true" tierName="Orthography"/>
+        <tier font="default" locked="false" visible="true" tierName="IPA Target"/>
+        <tier font="default" locked="false" visible="true" tierName="IPA Actual"/>
+        <tier font="default" locked="false" visible="true" tierName="Notes"/>
+        <tier font="default" locked="false" visible="true" tierName="Segment"/>
+    </tierOrder>
+    <transcript>
+        <u id="u0" speaker="p0">
+            <orthography>
+                <g>
+                    <ig type="s"/>
+                </g>
+                <g>
+                    <w>outer</w>
+                </g>
+                <g>
+                    <w>group</w>
+                </g>
+                <g>
+                    <ig type="e"/>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg/>
+                <pg>
+                    <w>ˈaʊtəɹ</w>
+                    <sb>
+                        <ph scType="SS" indexes="0"/>
+                        <ph hiatus="true" scType="N" indexes="1"/>
+                        <ph hiatus="false" scType="N" indexes="2"/>
+                        <ph scType="O" indexes="3"/>
+                        <ph hiatus="true" scType="N" indexes="4"/>
+                        <ph scType="C" indexes="5"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w>ˈɡɹuːp</w>
+                    <sb>
+                        <ph scType="SS" indexes="0"/>
+                        <ph scType="O" indexes="1"/>
+                        <ph scType="O" indexes="2"/>
+                        <ph hiatus="true" scType="N" indexes="3 4"/>
+                        <ph scType="C" indexes="5"/>
+                    </sb>
+                </pg>
+                <pg/>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg/>
+                <pg>
+                    <w>ˈʊt</w>
+                    <sb>
+                        <ph scType="SS" indexes="0"/>
+                        <ph hiatus="true" scType="N" indexes="1"/>
+                        <ph scType="C" indexes="2"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w>ˈuːp</w>
+                    <sb>
+                        <ph scType="SS" indexes="0"/>
+                        <ph hiatus="true" scType="N" indexes="1 2"/>
+                        <ph scType="C" indexes="3"/>
+                    </sb>
+                </pg>
+                <pg/>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="5">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 0"/>
+                    <phomap value="2 1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                </ag>
+                <ag length="4">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 0"/>
+                    <phomap value="3 1"/>
+                </ag>
+            </alignment>
+            <segment unitType="ms" duration="0.0" startTime="0.0"/>
+            <notes tierName="notes">This setup should be used when you want a CHAT group to enclose multiple phonetic groups.</notes>
+        </u>
+    </transcript>
+</session>

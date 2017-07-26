@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session version="PB1.2" corpus="Word Suffix Codes" id="test" xmlns="http://phon.ling.mun.ca/ns/phonbank">
+    <header>
+        <date>2012-10-22-03:30</date>
+        <language>eng</language>
+        <media></media>
+    </header>
+    <participants>
+        <participant id="p0">
+            <role>Target_Child</role>
+            <name>Testy McTester</name>
+            <group></group>
+            <sex>male</sex>
+            <education></education>
+            <birthday>2000-01-01-03:30</birthday>
+            <language>eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers/>
+    <tierOrder>
+        <tier font="default" locked="false" visible="true" tierName="Orthography"/>
+        <tier font="default" locked="false" visible="true" tierName="IPA Target"/>
+        <tier font="default" locked="false" visible="true" tierName="IPA Actual"/>
+        <tier font="default" locked="false" visible="true" tierName="Notes"/>
+        <tier font="default" locked="false" visible="true" tierName="Segment"/>
+    </tierOrder>
+    <transcript>
+        <u id="u0" speaker="p0">
+            <orthography>
+                <g>
+                    <w>test@t</w>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg/>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg/>
+            </ipaTier>
+        </u>
+    </transcript>
+</session>
