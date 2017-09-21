@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="otherspokenevent-xml-phon" corpus="Events" version="PB1.2">
+    <header>
+        <date>2012-10-19</date>
+        <language>eng</language>
+    </header>
+    <participants>
+        <participant id="p0">
+            <role>Target Child</role>
+            <name>Testy McTester</name>
+            <sex>male</sex>
+            <birthday>2000-01-01</birthday>
+            <age>P12Y9M18DT0H0M0S</age>
+            <language>eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers/>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Date">19-OCT-2012</comment>
+        <u speaker="p0" id="e991d22f-8bc2-48c7-8400-1205246397e6" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>hi</w>
+                    <e>MOT=hello</e>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+    </transcript>
+</session>
