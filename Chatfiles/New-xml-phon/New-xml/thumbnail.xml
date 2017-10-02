@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="thumbnail" corpus="sample" version="PB1.2">
+    <header>
+        <date>1984-01-01</date>
+        <language>eng</language>
+        <media>tai940505.mov</media>
+    </header>
+    <participants>
+        <participant id="MOT">
+            <role>Mother</role>
+            <language>eng</language>
+        </participant>
+        <participant id="CHI">
+            <role>Target Child</role>
+            <age>P1Y10M4DT0H0M0S</age>
+            <language>eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers>
+        <userTier tierName="Postcode" grouped="false"/>
+    </userTiers>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+        <tier tierName="Postcode" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Generic">test thumbnail</comment>
+        <comment type="T">first thumbnail</comment>
+        <u speaker="CHI" id="ed56dfa8-29e1-46a3-a12a-d1ddae3b98a9" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>ryoote</w>
+                    <w>agete</w>
+                    <com>=! singing</com>
+                    <p type="CLOSE_BRACE">}</p>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="2041689.0" duration="963.0" unitType="ms"/>
+            <flatTier tierName="Postcode">bch foo</flatTier>
+        </u>
+        <comment type="T">second thumbnail</comment>
+        <u speaker="CHI" id="7122ab06-9a66-4c06-88d8-8566f6c92f09" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>ryoote</w>
+                    <w>agete</w>
+                    <com>=! singing</com>
+                    <p type="CLOSE_BRACE">}</p>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="3041689.0" duration="963.0" unitType="ms"/>
+            <flatTier tierName="Postcode">bch foo</flatTier>
+        </u>
+    </transcript>
+</session>

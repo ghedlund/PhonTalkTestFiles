@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="Phon-CLAN correspondence" corpus="Test" version="PB1.2">
+    <header>
+        <date>1999-06-30</date>
+        <language>eng</language>
+    </header>
+    <participants>
+        <participant id="CHI">
+            <role>Target Child</role>
+            <name>Alex</name>
+            <sex>male</sex>
+            <birthday>1997-01-13</birthday>
+            <age>P2Y5M17DT0H0M0S</age>
+            <language>eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers/>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Date">30-JUN-1999</comment>
+        <u speaker="CHI" id="d532a0e0-0b91-4ce4-9e30-a7640f12390d" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>word</w>
+                    <com>?</com>
+                    <p type="CLOSE_BRACE">}</p>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+        <u speaker="CHI" id="cbb52a2b-13be-4c64-8114-f9964f236709" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <e>(action:) (= did nothing)</e>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+        <u speaker="CHI" id="1cd89cad-d4ad-46f4-8992-a507900f6fd3" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>word</w>
+                    <com>= did something</com>
+                    <p type="CLOSE_BRACE">}</p>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+        <u speaker="CHI" id="115e61ce-b4f1-44b0-8f9b-178f4fbd9ba5" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>year</w>
+                    <e>'91</e>
+                </g>
+                <g>
+                    <w>bar</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+        <u speaker="CHI" id="3f18bea8-9ca9-41e3-8da2-48cba6804fc7" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>I</w>
+                </g>
+                <g>
+                    <w>have</w>
+                    <e>bar:baz</e>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+        <u speaker="CHI" id="a16da960-70cd-432f-8152-49e7704851aa" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>I</w>
+                </g>
+                <g>
+                    <w>have</w>
+                    <e>$</e>
+                    <e>5</e>
+                </g>
+                <g>
+                    <w>million</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+        <u speaker="CHI" id="5b9e56b9-e1a9-42d4-bffd-8d2416935f6e" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>foo</w>
+                </g>
+                <g>
+                    <w>&amp;au^bg</w>
+                </g>
+                <g>
+                    <w>bar</w>
+                </g>
+                <g>
+                    <w>&amp;foo::bar</w>
+                </g>
+                <g>
+                    <w>&amp;foo::</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+        <u speaker="CHI" id="756e7288-462c-4629-b3a4-6f0678cf829c" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>foo</w>
+                    <e>head:no</e>
+                </g>
+                <g>
+                    <w>bar</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+        <u speaker="CHI" id="f3bc17bb-d67c-44d8-8377-2fdda5ad1d64" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>foo</w>
+                    <e>head (= head)</e>
+                </g>
+                <g>
+                    <w>bar</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+        <u speaker="CHI" id="b0b72c60-2e80-4957-86fb-1031034abef4" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>foo</w>
+                    <e>1</e>
+                </g>
+                <g>
+                    <w>bar</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+        <u speaker="CHI" id="b560e22e-a167-41d7-8604-2bb2f1546503" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>'er</w>
+                    <e>underline:begin</e>
+                    <e>underline:end</e>
+                </g>
+                <g>
+                    <w>is</w>
+                </g>
+                <g>
+                    <w>he:'</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+        <u speaker="CHI" id="33009fe1-b540-4108-bbd9-89430d1dc8ca" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>&amp;gʰan</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+        <u speaker="CHI" id="41c59b1d-efe7-447c-969c-bd8e7055541c" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>This</w>
+                </g>
+                <g>
+                    <w>is</w>
+                </g>
+                <g>
+                    <w>a</w>
+                </g>
+                <g>
+                    <w>test</w>
+                </g>
+                <g>
+                    <w>of</w>
+                </g>
+                <g>
+                    <w>bck</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+        <u speaker="CHI" id="a86bbe12-30a1-4cb6-89e5-4e0303f1e58f" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>what</w>
+                    <com type="clause delimiter">clause delimiter:null</com>
+                </g>
+                <g>
+                    <w>why</w>
+                </g>
+                <g>
+                    <w>now</w>
+                    <p type="QUESTION">?</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+    </transcript>
+</session>

@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="replacement-real" corpus="Kansas" version="PB1.2">
+    <header>
+        <date>1984-01-01</date>
+        <language>eng</language>
+    </header>
+    <participants>
+        <participant id="PAR">
+            <role>Participant</role>
+            <name>kansas14a</name>
+            <group>Wernicke</group>
+            <sex>female</sex>
+            <SES>kansas14a</SES>
+            <language>eng</language>
+        </participant>
+        <participant id="INV">
+            <role>Investigator</role>
+            <SES>kansas14a</SES>
+            <language>eng</language>
+        </participant>
+        <participant id="INV2">
+            <role>Investigator</role>
+            <SES>kansas14a</SES>
+            <language>eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers>
+        <userTier tierName="Morphology" grouped="true"/>
+    </userTiers>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+        <tier tierName="Morphology" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Generic">replacement for real word, so that mor ignores</comment>
+        <u speaker="PAR" id="1a9a7fe4-f756-4eba-9883-24b9e5cf49bf" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <e>coughs</e>
+                </g>
+                <g>
+                    <w>well</w>
+                </g>
+                <g>
+                    <w>this</w>
+                </g>
+                <g>
+                    <w>is</w>
+                </g>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                </g>
+                <g>
+                    <w>a</w>
+                    <w>little</w>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>]</w>
+                </g>
+                <g>
+                    <w>girl</w>
+                    <com type="replacement">replacement:boy</com>
+                    <com type="error">error:s:r-ret</com>
+                    <p type="CLOSE_BRACE">}</p>
+                    <w>]</w>
+                </g>
+                <g>
+                    <com>//</com>
+                </g>
+                <g>
+                    <p type="CLOSE_BRACE">}</p>
+                    <e>points:picture_one</e>
+                </g>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>a</w>
+                    <w>person</w>
+                    <com>//</com>
+                    <p type="CLOSE_BRACE">}</p>
+                </g>
+                <g>
+                    <w>a</w>
+                </g>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>man</w>
+                    <com type="replacement">replacement:boy</com>
+                    <com type="error">error:s:r-rep</com>
+                    <com>/</com>
+                    <p type="CLOSE_BRACE">}</p>
+                </g>
+                <g>
+                    <w>man</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="200785.0" duration="3915.0" unitType="ms"/>
+            <groupTier tierName="Morphology">
+                <tg/>
+                <tg>
+                    <w>co|well</w>
+                </tg>
+                <tg>
+                    <w>pro:dem|this</w>
+                </tg>
+                <tg>
+                    <w>v:cop|be&amp;3S</w>
+                </tg>
+                <tg/>
+                <tg/>
+                <tg/>
+                <tg/>
+                <tg/>
+                <tg/>
+                <tg>
+                    <w>det|a</w>
+                </tg>
+                <tg/>
+                <tg>
+                    <w>n|man</w>
+                    <w>.</w>
+                </tg>
+            </groupTier>
+        </u>
+        <u speaker="PAR" id="5b56b93d-d8a5-4a43-b442-d2a25e86297d" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <e>points:picture_one</e>
+                </g>
+                <g>
+                    <w>that's</w>
+                </g>
+                <g>
+                    <w>the</w>
+                </g>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>father</w>
+                    <com type="replacement">replacement:son</com>
+                    <com type="error">error:s:r</com>
+                    <p type="CLOSE_BRACE">}</p>
+                    <e>points:picture_three</e>
+                </g>
+                <g>
+                    <w>and</w>
+                </g>
+                <g>
+                    <w>this</w>
+                </g>
+                <g>
+                    <w>is</w>
+                </g>
+                <g>
+                    <w>the</w>
+                </g>
+                <g>
+                    <w>older</w>
+                </g>
+                <g>
+                    <w>one</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="277889.0" duration="1857.0" unitType="ms"/>
+            <groupTier tierName="Morphology">
+                <tg/>
+                <tg>
+                    <w>pro:dem|that~v:cop|be&amp;3S</w>
+                </tg>
+                <tg>
+                    <w>det|the</w>
+                </tg>
+                <tg>
+                    <w>n|father</w>
+                </tg>
+                <tg>
+                    <w>coord|and</w>
+                </tg>
+                <tg>
+                    <w>pro:dem|this</w>
+                </tg>
+                <tg>
+                    <w>v:cop|be&amp;3S</w>
+                </tg>
+                <tg>
+                    <w>det|the</w>
+                </tg>
+                <tg>
+                    <w>adj|old-CP</w>
+                </tg>
+                <tg>
+                    <w>pro:indef|one</w>
+                    <w>.</w>
+                </tg>
+            </groupTier>
+        </u>
+        <u speaker="PAR" id="3b7542ea-30c9-47d9-8483-9f5af16c6b84" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <e>points:picture_one</e>
+                </g>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>let's</w>
+                    <com>//</com>
+                    <p type="CLOSE_BRACE">}</p>
+                </g>
+                <g>
+                    <w>it's</w>
+                </g>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>a</w>
+                    <com>//</com>
+                    <p type="CLOSE_BRACE">}</p>
+                </g>
+                <g>
+                    <w>&amp;ba</w>
+                </g>
+                <g>
+                    <w>the</w>
+                </g>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>brain</w>
+                    <com type="replacement">replacement:umbrella</com>
+                    <com type="error">error:s:ur</com>
+                    <p type="CLOSE_BRACE">}</p>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="355535.0" duration="1496.0" unitType="ms"/>
+            <groupTier tierName="Morphology">
+                <tg/>
+                <tg/>
+                <tg>
+                    <w>pro|it~v:cop|be&amp;3S</w>
+                </tg>
+                <tg/>
+                <tg/>
+                <tg>
+                    <w>det|the</w>
+                </tg>
+                <tg>
+                    <w>n|brain</w>
+                    <w>.</w>
+                </tg>
+            </groupTier>
+        </u>
+    </transcript>
+</session>

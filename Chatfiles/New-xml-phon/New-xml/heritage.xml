@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="heritage" corpus="timmy" version="PB1.2">
+    <header>
+        <date>1996-02-29</date>
+        <language>eng</language>
+        <media>tai940505.mov</media>
+    </header>
+    <participants>
+        <participant id="CHI">
+            <role>Target Child</role>
+            <name>Timmy</name>
+            <age>P2Y9M8DT0H0M0S</age>
+            <language>eng</language>
+        </participant>
+        <participant id="LIN">
+            <role>Investigator</role>
+            <name>Linda</name>
+            <language>eng</language>
+        </participant>
+        <participant id="WIN">
+            <role>Investigator</role>
+            <name>Winnie</name>
+            <language>eng</language>
+        </participant>
+        <participant id="GEM">
+            <role>Housekeeper</role>
+            <name>Gemma</name>
+            <language>eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers/>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Date">29-FEB-1996</comment>
+        <comment type="Generic">heritage will never round trip "properly" because of loss</comment>
+        <u speaker="CHI" id="c46fd050-15e1-4fd9-a440-79688e15c15f" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">blob:what's</com>
+                    <com type="blob">blob:that</com>
+                    <com type="blob">blob:?</com>
+                    <com type="t">t:missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+        <u speaker="CHI" id="3619e5ab-65fd-48d1-afc4-5c5e07263e43" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <e>underline:begin</e>
+                    <com type="blob">blob:underline</com>
+                    <e>underline:end</e>
+                    <com type="blob">blob:foo</com>
+                    <com type="blob">blob:bar</com>
+                    <com type="blob">blob:.</com>
+                    <com type="t">t:missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+        <u speaker="CHI" id="d317df0c-d03c-4530-b254-1fda62b7ef79" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <e>underline:begin</e>
+                    <com type="blob">blob:underline</com>
+                    <e>underline:end</e>
+                    <com type="blob">blob::</com>
+                    <com type="t">t:missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="2041689.0" duration="963.0" unitType="ms"/>
+        </u>
+    </transcript>
+</session>

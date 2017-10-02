@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="sin-one" corpus="gesture" version="PB1.2">
+    <header>
+        <date>1984-01-01</date>
+        <language>eng</language>
+        <media>58LL13.mov</media>
+    </header>
+    <participants>
+        <participant id="CHI">
+            <role>Target Child</role>
+            <name>Lydia</name>
+            <group>hearingloss</group>
+            <sex>female</sex>
+            <age>P1Y1M6DT0H0M0S</age>
+            <language>eng</language>
+        </participant>
+        <participant id="MOT">
+            <role>Mother</role>
+            <name>Mother of Lydia</name>
+            <sex>female</sex>
+            <language>eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers/>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Generic">Hmm, need to change the syntax since 0 is not a word.</comment>
+        <u speaker="CHI" id="ff0909b2-ad43-4961-ae12-9bb6607f5929" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="23317.0" duration="1553.0" unitType="ms"/>
+        </u>
+    </transcript>
+</session>

@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="repetition" corpus="bates" version="PB1.2">
+    <header>
+        <date>1984-01-01</date>
+        <language>eng</language>
+    </header>
+    <participants>
+        <participant id="CHI">
+            <role>Child</role>
+            <group>normal</group>
+            <sex>female</sex>
+            <age>P1Y8M0DT0H0M0S</age>
+            <language>eng</language>
+        </participant>
+        <participant id="MOT">
+            <role>Mother</role>
+            <language>eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers>
+        <userTier tierName="Postcode" grouped="false"/>
+    </userTiers>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+        <tier tierName="Postcode" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <u speaker="CHI" id="f5bacbe9-c9b5-4f9a-ba6d-c2d0d69db39f" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>my</w>
+                </g>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>car</w>
+                    <com>x3</com>
+                    <p type="CLOSE_BRACE">}</p>
+                </g>
+                <g>
+                    <w>is</w>
+                </g>
+                <g>
+                    <w>stupid</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+        <u speaker="CHI" id="ed8f3c61-480a-4c7c-8a81-51f3d9e971c9" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>my+car</w>
+                    <com>x3</com>
+                    <p type="CLOSE_BRACE">}</p>
+                </g>
+                <g>
+                    <w>is</w>
+                </g>
+                <g>
+                    <w>stupid</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+        <u speaker="CHI" id="64def846-678a-4a4b-af27-9d2d450df5e3" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>my</w>
+                    <w>car</w>
+                    <com>x3</com>
+                    <p type="CLOSE_BRACE">}</p>
+                </g>
+                <g>
+                    <w>is</w>
+                </g>
+                <g>
+                    <w>stupid</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+        <u speaker="CHI" id="75e81dac-185a-4f12-9df8-4aedeaec6320" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>my</w>
+                </g>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>&amp;car</w>
+                    <com>x3</com>
+                    <p type="CLOSE_BRACE">}</p>
+                </g>
+                <g>
+                    <w>is</w>
+                </g>
+                <g>
+                    <w>stupid</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+        <u speaker="CHI" id="0046db4a-1635-4aa0-b40a-99793c188818" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                </g>
+                <g>
+                    <w>my</w>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>]</w>
+                </g>
+                <g>
+                    <w>car</w>
+                    <com>&lt;</com>
+                    <p type="CLOSE_BRACE">}</p>
+                    <w>]</w>
+                </g>
+                <g>
+                    <com>x3</com>
+                </g>
+                <g>
+                    <p type="CLOSE_BRACE">}</p>
+                </g>
+                <g>
+                    <w>is</w>
+                </g>
+                <g>
+                    <w>stupid</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+        <u speaker="CHI" id="d17f7556-7f45-4f5c-a364-7930183b6917" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                </g>
+                <g>
+                    <w>my</w>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>]</w>
+                </g>
+                <g>
+                    <w>car</w>
+                    <com>x3</com>
+                    <com>&gt;</com>
+                    <p type="CLOSE_BRACE">}</p>
+                    <w>]</w>
+                </g>
+                <g>
+                    <com>x3</com>
+                </g>
+                <g>
+                    <p type="CLOSE_BRACE">}</p>
+                </g>
+                <g>
+                    <w>is</w>
+                </g>
+                <g>
+                    <w>stupid</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+        <u speaker="CHI" id="e7caf288-d562-4c16-a048-ac866ee9d241" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>my</w>
+                    <w>car</w>
+                    <com>x2</com>
+                    <com>&gt;</com>
+                    <p type="CLOSE_BRACE">}</p>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <flatTier tierName="Postcode">noatt</flatTier>
+        </u>
+        <u speaker="CHI" id="b1b1bf4e-8d3b-41a2-8797-7d12c813ab7e" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>my+car</w>
+                    <com>x2</com>
+                    <com>&gt;</com>
+                    <p type="CLOSE_BRACE">}</p>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <flatTier tierName="Postcode">noatt</flatTier>
+        </u>
+        <u speaker="CHI" id="96504db0-73b5-4da9-84b8-e267d4aa6780" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>my</w>
+                </g>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>car</w>
+                    <com>x2</com>
+                    <com>% comment stuff</com>
+                    <p type="CLOSE_BRACE">}</p>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+        <u speaker="CHI" id="8108d453-0033-4e07-9695-1494da061cab" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>my</w>
+                    <w>car</w>
+                    <com>x2</com>
+                    <com>% comment stuff</com>
+                    <p type="CLOSE_BRACE">}</p>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+        <u speaker="CHI" id="f433a69c-15ef-46a0-a28f-a32ce4895b6f" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>my+car</w>
+                    <com>x2</com>
+                    <com>% comment stuff</com>
+                    <p type="CLOSE_BRACE">}</p>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+        <u speaker="CHI" id="6eaec741-5901-4e24-b456-791f8fd717e7" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>my</w>
+                </g>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>car</w>
+                    <com>= foo</com>
+                    <com>x2</com>
+                    <p type="CLOSE_BRACE">}</p>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+        <u speaker="CHI" id="495c99bc-dbfa-497f-8f7b-acddbce20140" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>my</w>
+                    <w>car</w>
+                    <com>= foo</com>
+                    <com>x2</com>
+                    <p type="CLOSE_BRACE">}</p>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+        <u speaker="CHI" id="80e1c5fa-c96f-4777-a537-6343696b91e3" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>my+car</w>
+                    <com>= foo</com>
+                    <com>x2</com>
+                    <p type="CLOSE_BRACE">}</p>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+    </transcript>
+</session>

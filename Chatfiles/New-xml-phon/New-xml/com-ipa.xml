@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="com-ipa" corpus="providence" version="PB1.2">
+    <header>
+        <date>2003-04-29</date>
+        <language>eng</language>
+        <media>ale26.mov</media>
+    </header>
+    <participants>
+        <participant id="CHI">
+            <role>Target Child</role>
+            <sex>male</sex>
+            <birthday>2000-12-04</birthday>
+            <age>P2Y4M25DT0H0M0S</age>
+            <language>eng</language>
+        </participant>
+        <participant id="MOT">
+            <role>Mother</role>
+            <language>eng</language>
+        </participant>
+        <participant id="OPE">
+            <role>Camera Operator</role>
+            <language>eng</language>
+        </participant>
+        <participant id="GRA">
+            <role>Grandmother</role>
+            <language>eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers>
+        <userTier tierName="pho" grouped="false"/>
+    </userTiers>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+        <tier tierName="pho" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Date">29-APR-2003</comment>
+        <comment type="Transcriber">chris harris, mike jackson</comment>
+        <comment type="Generic">Language of Caregivers Mother Southeastern Massachusetts, Father Southeastern Massachusetts, Grandmother Southeastern Massachusetts; Camera_Operator is Manuela</comment>
+        <u speaker="CHI" id="720cf104-af5b-4069-82c4-125ce72f2aa2" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>Mommy</w>
+                </g>
+                <g>
+                    <w>open</w>
+                </g>
+                <g>
+                    <w>this</w>
+                    <p type="QUESTION">?</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="620128.0" duration="1715.0" unitType="ms"/>
+            <notes tierName="Notes">after transcribing the entire file, I realized that pʊʃ and similar sounding things might mean "open this ." Things that sound like əˈmaɪ or ʊˈmaɪ seem to connote desire roughly, "I want Mommy to" or "I want you to" or something like that: this is what CHI usually says when he's asking his mom to do something for him . I've transcribed it as "Mommy" .</notes>
+            <flatTier tierName="pho">əˈmaɪs ɛmˈpʊʃ</flatTier>
+        </u>
+    </transcript>
+</session>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="language-chinese" corpus="bates" version="PB1.2">
+    <header>
+        <date>1964-07-23</date>
+        <language>zho-min eng</language>
+    </header>
+    <participants>
+        <participant id="CHI">
+            <role>Child</role>
+            <group>normal</group>
+            <sex>female</sex>
+            <age>P1Y8M0DT0H0M0S</age>
+            <language>zho-min eng</language>
+        </participant>
+        <participant id="MOT">
+            <role>Mother</role>
+            <language>zho-min eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers/>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="NewLanguage">zho-min</comment>
+        <comment type="Date">23-JUL-1964</comment>
+        <u speaker="CHI" id="0d15641e-d9ed-4816-9d63-b86a526c184a" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>a</w>
+                </g>
+                <g>
+                    <w>foo3</w>
+                </g>
+                <g>
+                    <w>stupid</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+    </transcript>
+</session>

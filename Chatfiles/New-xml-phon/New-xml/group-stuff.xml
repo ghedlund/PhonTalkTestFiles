@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="group-stuff" corpus="aarsenbos" version="PB1.2">
+    <header>
+        <date>1991-06-20</date>
+        <language>ara</language>
+    </header>
+    <participants>
+        <participant id="CHI">
+            <role>Target Child</role>
+            <name>Chariba</name>
+            <age>P8Y9M12DT0H0M0S</age>
+            <language>ara</language>
+        </participant>
+        <participant id="HAY">
+            <role>Investigator</role>
+            <name>Hayat</name>
+            <language>ara</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers/>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Date">20-JUN-1991</comment>
+        <u speaker="CHI" id="5f2d07b8-15ab-4942-abc8-0092eb3e5aa7" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>ana</w>
+                    <com>//</com>
+                    <p type="CLOSE_BRACE">}</p>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+    </transcript>
+</session>

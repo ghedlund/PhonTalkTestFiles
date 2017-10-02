@@ -1,0 +1,24 @@
+*** File "formmarkers.cha": line 22, column 3: lexer: invalid form marker code: @pm
+*** File "frbm06.cha": line 446, column 9: lexer: skipping nonviable character '' (Unicode \uf176) in state 118
+*** File "frbm06.cha": line 446, column 16: lexer: skipping nonviable character '' (Unicode \uf176) in state 118
+*** File "frbm06.cha": line 450, column 9: lexer: skipping nonviable character '' (Unicode \uf176) in state 118
+*** File "frbm06.cha": line 450, column 17: lexer: skipping nonviable character '' (Unicode \uf176) in state 118
+*** File "frbm06.cha": line 454, column 13: lexer: skipping nonviable character '' (Unicode \uf176) in state 118
+*** File "pho-group.cha": line 108, column 11: lexer: skipping nonviable character '' (Unicode \uf1a8) in state 98
+*** File "pho-group.cha": line 109, column 15: lexer: skipping nonviable character '' (Unicode \uf1a8) in state 98
+*** File "pho-group.cha": line 109, column 16: parser: semantic failure: mod is longer than main line
+*** File "pho-group.cha": line 176, column 11: lexer: skipping nonviable character '' (Unicode \uf1b1) in state 98
+*** File "pho-group.cha": line 309, column 10: lexer: skipping nonviable character '' (Unicode \uf1b1) in state 98
+*** File "pho-group.cha": line 321, column 13: lexer: skipping nonviable character '' (Unicode \uf1a8) in state 98
+*** File "pho-group.cha": line 321, column 14: parser: semantic failure: pho is longer than main line
+*** File "pho-group.cha": line 322, column 12: lexer: skipping nonviable character '' (Unicode \uf1a8) in state 98
+*** File "pho-group.cha": line 322, column 13: parser: semantic failure: mod is longer than main line
+*** File "pho-group.cha": line 345, column 13: lexer: skipping nonviable character '' (Unicode \uf1b1) in state 98
+*** File "pho-group.cha": line 489, column 13: lexer: skipping nonviable character '' (Unicode \uf1b1) in state 98
+*** File "pho-group.cha": line 717, column 13: lexer: skipping nonviable character '' (Unicode \uf1b1) in state 98
+*** File "pho-group.cha": line 845, column 11: lexer: skipping nonviable character '' (Unicode \uf1a8) in state 98
+*** File "pho-group.cha": line 846, column 10: lexer: skipping nonviable character '' (Unicode \uf1a8) in state 98
+*** File "pho-group.cha": line 846, column 11: parser: semantic failure: mod is longer than main line
+*** File "pho-group.cha": line 873, column 12: lexer: skipping nonviable character '' (Unicode \uf1a8) in state 98
+*** File "pho-group.cha": line 941, column 9: lexer: skipping nonviable character '' (Unicode \uf1b1) in state 98
+*** File "pho-group.cha": line 941, column 10: parser: semantic failure: pho is longer than main line

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="mor-from-frag" corpus="W" version="PB1.2">
+    <header>
+        <date>1984-01-01</date>
+        <language>eng</language>
+    </header>
+    <participants>
+        <participant id="SUB">
+            <role>Participant</role>
+            <name>20 01 G</name>
+            <language>eng</language>
+        </participant>
+        <participant id="EXA">
+            <role>Investigator</role>
+            <name>Investigator</name>
+            <language>eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers>
+        <userTier tierName="Morphology" grouped="true"/>
+    </userTiers>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+        <tier tierName="Morphology" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <u speaker="SUB" id="694528e6-83b4-4785-906d-4a38d29d0172" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>&amp;lil</w>
+                    <com type="replacement">replacement:little</com>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <groupTier tierName="Morphology">
+                <tg>
+                    <w>adj|little</w>
+                    <w>.</w>
+                </tg>
+            </groupTier>
+        </u>
+    </transcript>
+</session>

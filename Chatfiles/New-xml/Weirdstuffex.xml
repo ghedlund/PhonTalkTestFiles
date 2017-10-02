@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Media="31" Mediatypes="video missing"
+      Version="2.5.0"
+      Lang="fra eng"
+      Corpus="Test"
+      Date="2011-09-14">
+  <Participants>
+    <participant
+      id="CHI"
+    name="Child"
+      role="Target_Child"
+      language="fra eng"
+      age="P5Y1M1D"
+      sex="female"
+
+      birthday="2006-07-24"
+
+    />
+    <participant
+      id="MOT"
+    name="Mom"
+      role="Mother"
+      language="fra eng"
+      age="P30Y1M1D"
+      sex="female"
+
+      birthday="1980-12-12"
+
+    />
+    <participant
+      id="OBS"
+    name="Camera"
+      role="Observer"
+      language="fra eng"
+      age="P40Y1M1D"
+      sex="female"
+
+      birthday="1970-01-01"
+
+    />
+  </Participants>
+  <comment type="Location">CHI's home</comment>
+  <comment type="Generic">coder - Françoise Bourdoux (June 2012) - Gabrielle Miesse (August 2012)</comment>
+  <comment type="Situation">MOT et CHI sont filmées par OBS</comment>
+  <comment type="Date">14-SEP-2011</comment>
+  <u who="CHI" uID="u0">
+    <pg><w>euh<mor type="mor"><mw><pos><c>co</c></pos><stem>euh</stem></mw></mor></w><actual><pw><ph id="ph0">ə</ph><ph id="ph1">h</ph></pw></actual></pg>
+    <pg><g><w type="omission">il</w>
+    <w>y</w>
+    <w>en</w>
+    <w>a</w><k type="retracing with correction"/></g><actual><pw><ph id="ph0">j</ph><ph id="ph1">ɑ</ph><ph id="ph2">̃</ph><ph id="ph3">n</ph><ph id="ph4">a</ph></pw></actual></pg>
+    <pg><g><w>y</w>
+    <w>a</w><k type="retracing"/></g><actual><pw><ph id="ph0">j</ph><ph id="ph1">a</ph></pw></actual></pg>
+    <pg><w>y<mor type="mor"><mw><pos><c>pro</c><s>y</s></pos><stem>y</stem></mw></mor></w>
+    <w>a<mor type="mor"><mw><pos><c>v</c><s>aux</s></pos><stem>avoir</stem><mk type="sfxf">PRES</mk><mk type="sfxf">3s</mk></mw></mor></w><actual><pw><ph id="ph0">j</ph><ph id="ph1">a</ph></pw></actual></pg>
+    <pg><w>une<mor type="mor"><mw><pos><c>det</c></pos><stem>une</stem><mk type="sfxf">f</mk><mk type="sfxf">sg</mk></mw></mor></w><actual><pw><ph id="ph0">y</ph><ph id="ph1">n</ph></pw></actual></pg>
+    <pg><w>photo<mor type="mor"><mw><pos><c>n</c></pos><stem>photo</stem><mk type="sfxf">f</mk></mw></mor></w><actual><pw><ph id="ph0">f</ph><ph id="ph1">ɔ</ph><ph id="ph2">t</ph><ph id="ph3">ɔ</ph></pw></actual></pg>
+    <t type="trail off"><mor type="mor"><mt type="trail off"/></mor></t>
+    <media
+      start="1760.009"
+      end="1767.134"
+      unit="s"
+    />
+    <a type="actions">CHI prend une posture de singe</a>
+  </u>
+  <u who="CHI" uID="u1">
+    <pg><w>euh<mor type="mor"><mw><pos><c>co</c></pos><stem>euh</stem></mw></mor></w>
+    <pause symbolic-length="simple"/><actual><pw><ph id="ph0">ə</ph><ph id="ph1">h</ph></pw><pw><ph id="ph2">(</ph><ph id="ph3">.</ph><ph id="ph4">)</ph></pw></actual></pg>
+    <pg><w>euh<mor type="mor"><mw><pos><c>co</c></pos><stem>euh</stem></mw></mor></w><actual><pw><ph id="ph0">ə</ph><ph id="ph1">h</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/></mor></t>
+
+  </u>
+  <u who="CHI" uID="u2">
+    <w type="omission">il</w>
+    <pg><w>y</w>
+    <w>a</w><actual><pw><ph id="ph0">j</ph><ph id="ph1">a</ph></pw></actual></pg>
+    <t type="p"></t>
+
+    <a type="comments">Other potential orthography: ‹0il y a›</a>
+  </u>
+  <u who="CHI" uID="u3">
+    <g><pg><w>the</w><actual><pw><ph id="ph0">ð</ph><ph id="ph1">ə</ph></pw></actual></pg>
+    <pg><w>word</w><actual><pw><ph id="ph0">w</ph><ph id="ph1">ʌ</ph><ph id="ph2">ɹ</ph><ph id="ph3">d</ph></pw></actual></pg><k type="retracing with correction"/></g>
+    <g><pg><w>word</w><actual><pw><ph id="ph0">w</ph><ph id="ph1">ʌ</ph><ph id="ph2">ɹ</ph><ph id="ph3">d</ph></pw></actual></pg><k type="retracing"/></g>
+    <pg><w>word<mor type="mor"><mw><pos><c>n</c></pos><stem>word</stem></mw></mor></w><actual><pw><ph id="ph0">w</ph><ph id="ph1">ʌ</ph><ph id="ph2">ɹ</ph><ph id="ph3">d</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/></mor></t>
+
+    <a type="comments">notice words in &lt;&gt; are omitted in mor, not in pho</a>
+  </u>
+</CHAT>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="quotation" corpus="timmy" version="PB1.2">
+    <header>
+        <date>1984-01-01</date>
+        <language>eng</language>
+    </header>
+    <participants>
+        <participant id="CHI">
+            <role>Target Child</role>
+            <name>Timmy</name>
+            <age>P2Y0M0DT0H0M0S</age>
+            <language>eng</language>
+        </participant>
+        <participant id="LIN">
+            <role>Investigator</role>
+            <name>Linda</name>
+            <language>eng</language>
+        </participant>
+        <participant id="WIN">
+            <role>Investigator</role>
+            <name>Winnie</name>
+            <language>eng</language>
+        </participant>
+        <participant id="GEM">
+            <role>Housekeeper</role>
+            <name>Gemma</name>
+            <language>eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers/>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Generic">inlined quotation, with or without group</comment>
+        <u speaker="CHI" id="42fa19d1-2cae-4162-bc92-13173655b64d" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>&amp;foo</w>
+                </g>
+                <g>
+                    <w>and</w>
+                </g>
+                <g>
+                    <w>more</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+        <u speaker="CHI" id="77930dc2-3a42-4b1f-b046-c064dbecf468" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>wij</w>
+                    <w>hebben</w>
+                    <w>een</w>
+                    <w>kikker</w>
+                    <w>gevangen</w>
+                    <com>&lt;</com>
+                    <p type="CLOSE_BRACE">}</p>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+    </transcript>
+</session>

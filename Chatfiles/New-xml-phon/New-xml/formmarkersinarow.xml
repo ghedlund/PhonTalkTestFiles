@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="formmarkersinarow" corpus="bloom70" version="PB1.2">
+    <header>
+        <date>1984-01-01</date>
+        <language>eng</language>
+    </header>
+    <participants>
+        <participant id="CHI">
+            <role>Target Child</role>
+            <name>Peter</name>
+            <group>normal</group>
+            <sex>male</sex>
+            <age>P2Y5M22DT0H0M0S</age>
+            <language>eng</language>
+        </participant>
+        <participant id="MOT">
+            <role>Mother</role>
+            <language>eng</language>
+        </participant>
+        <participant id="LOI">
+            <role>Investigator</role>
+            <name>Lois</name>
+            <language>eng</language>
+        </participant>
+        <participant id="PAT">
+            <role>Investigator</role>
+            <name>Patsy</name>
+            <language>eng</language>
+        </participant>
+        <participant id="LYN">
+            <role>Investigator</role>
+            <name>Lynn</name>
+            <language>eng</language>
+        </participant>
+        <participant id="JEN">
+            <role>Child</role>
+            <name>Jenny</name>
+            <language>eng</language>
+        </participant>
+        <participant id="AIM">
+            <role>Student</role>
+            <name>Aimee</name>
+            <language>eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers/>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <u speaker="CHI" id="9d5de48f-1ac9-4751-97fc-8092de0be76d" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>a@l</w>
+                </g>
+                <g>
+                    <w>b@l</w>
+                </g>
+                <g>
+                    <w>c@l</w>
+                </g>
+                <g>
+                    <w>d@l</w>
+                </g>
+                <g>
+                    <w>e@l</w>
+                </g>
+                <g>
+                    <w>f@l</w>
+                </g>
+                <g>
+                    <w>g@l</w>
+                </g>
+                <g>
+                    <w>k@l</w>
+                </g>
+                <g>
+                    <w>ok</w>
+                </g>
+                <g>
+                    <w>n@l</w>
+                </g>
+                <g>
+                    <w>ok</w>
+                </g>
+                <g>
+                    <w>Peter</w>
+                </g>
+                <g>
+                    <w>p@l</w>
+                </g>
+                <g>
+                    <w>s@l</w>
+                </g>
+                <g>
+                    <w>y@l</w>
+                </g>
+                <g>
+                    <w>ok</w>
+                </g>
+                <g>
+                    <w>Peter</w>
+                </g>
+                <g>
+                    <w>n@l</w>
+                </g>
+                <g>
+                    <w>ok</w>
+                </g>
+                <g>
+                    <w>n@l</w>
+                </g>
+                <g>
+                    <w>ok</w>
+                </g>
+                <g>
+                    <w>Peter</w>
+                    <com>.</com>
+                </g>
+                <g>
+                    <w>q@l</w>
+                </g>
+                <g>
+                    <w>r@l</w>
+                </g>
+                <g>
+                    <w>s@l</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+    </transcript>
+</session>

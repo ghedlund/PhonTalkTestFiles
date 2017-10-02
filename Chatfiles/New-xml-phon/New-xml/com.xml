@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="com" corpus="providence" version="PB1.2">
+    <header>
+        <date>2002-12-22</date>
+        <language>eng</language>
+        <media>nai29.mov</media>
+    </header>
+    <participants>
+        <participant id="CHI">
+            <role>Target Child</role>
+            <sex>female</sex>
+            <birthday>2001-03-14</birthday>
+            <age>P1Y9M8DT0H0M0S</age>
+            <language>eng</language>
+        </participant>
+        <participant id="MOT">
+            <role>Mother</role>
+            <language>eng</language>
+        </participant>
+        <participant id="ENV">
+            <role>Environment</role>
+            <language>eng</language>
+        </participant>
+        <participant id="GRA">
+            <role>Grandmother</role>
+            <language>eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers>
+        <userTier tierName="pho" grouped="false"/>
+    </userTiers>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+        <tier tierName="pho" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Date">22-DEC-2002</comment>
+        <comment type="Transcriber">sarah mckim</comment>
+        <u speaker="CHI" id="3f59f163-40e1-48f0-a7a5-4343b16bbcda" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>yy</w>
+                </g>
+                <g>
+                    <w>turn</w>
+                </g>
+                <g>
+                    <w>the</w>
+                </g>
+                <g>
+                    <w>radio</w>
+                </g>
+                <g>
+                    <w>on</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="553171.0" duration="3419.0" unitType="ms"/>
+            <notes tierName="Notes">stuff</notes>
+            <flatTier tierName="pho">ˈmɛʔ tɜ˞ndəˈweɪdioˈɑn</flatTier>
+        </u>
+    </transcript>
+</session>

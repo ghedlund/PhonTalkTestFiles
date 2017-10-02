@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="pho-new" corpus="IDO" version="PB1.2">
+    <header>
+        <date>2000-06-23</date>
+        <language>ind jav</language>
+    </header>
+    <participants>
+        <participant id="CHI">
+            <role>Target Child</role>
+            <name>Ido</name>
+            <sex>male</sex>
+            <birthday>1996-01-01</birthday>
+            <age>P4Y5M21DT0H0M0S</age>
+            <language>ind jav</language>
+        </participant>
+        <participant id="MOT">
+            <role>Mother</role>
+            <name>Rimi</name>
+            <sex>female</sex>
+            <language>ind jav</language>
+        </participant>
+        <participant id="EXP">
+            <role>Investigator</role>
+            <name>Bety</name>
+            <sex>female</sex>
+            <age>P25Y1M14DT0H0M0S</age>
+            <language>ind jav</language>
+        </participant>
+        <participant id="ABA">
+            <role>Brother</role>
+            <name>Praba</name>
+            <sex>male</sex>
+            <birthday>1994-10-31</birthday>
+            <age>P5Y7M22DT0H0M0S</age>
+            <language>ind jav</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers>
+        <userTier tierName="Morphology" grouped="true"/>
+    </userTiers>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+        <tier tierName="Morphology" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Date">23-JUN-2000</comment>
+        <comment type="Generic">Test new pho, along with mor, since both 1-1</comment>
+        <u speaker="EXP" id="9e41d291-6a3a-4d5c-b94e-908d9366bdea" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>entar</w>
+                </g>
+                <g>
+                    <w>Tante</w>
+                </g>
+                <g>
+                    <w>nggak</w>
+                </g>
+                <g>
+                    <w>mo</w>
+                </g>
+                <g>
+                    <w>maen</w>
+                </g>
+                <g>
+                    <w>lagi</w>
+                </g>
+                <g>
+                    <w>deh</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w>a</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w>b</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w>c</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w>d</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w>e</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w>f</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w>g</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <groupTier tierName="Morphology">
+                <tg>
+                    <w>det|the</w>
+                </tg>
+                <tg>
+                    <w>n|people</w>
+                </tg>
+                <tg>
+                    <w>v:aux|be&amp;PRES</w>
+                </tg>
+                <tg>
+                    <w>v|make-ING</w>
+                </tg>
+                <tg>
+                    <w>n|cake-PL</w>
+                </tg>
+                <tg>
+                    <w>n|cake-PL</w>
+                </tg>
+                <tg>
+                    <w>n|cake-PL</w>
+                    <w>.</w>
+                </tg>
+            </groupTier>
+        </u>
+        <u speaker="EXP" id="05c0ff32-20f3-4326-9b18-12a1624acce9" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>entar</w>
+                </g>
+                <g>
+                    <w>Tante</w>
+                </g>
+                <g>
+                    <w>nggak</w>
+                </g>
+                <g>
+                    <w>mo</w>
+                </g>
+                <g>
+                    <w>maen</w>
+                </g>
+                <g>
+                    <w>lagi</w>
+                </g>
+                <g>
+                    <w>deh</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w>a</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w>b</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w>c</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w>d</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w>e</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w>f</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w>g</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+        <comment type="Generic">xxx</comment>
+        <u speaker="EXP" id="3b47b07a-6ec0-45de-a46b-eb84e7125a74" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>entar</w>
+                </g>
+                <g>
+                    <w>xxx</w>
+                </g>
+                <g>
+                    <w>Tante</w>
+                </g>
+                <g>
+                    <w>nggak</w>
+                </g>
+                <g>
+                    <w>mo</w>
+                </g>
+                <g>
+                    <w>maen</w>
+                </g>
+                <g>
+                    <w>lagi</w>
+                </g>
+                <g>
+                    <w>deh</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w>entar</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1" scType="UK"/>
+                        <ph indexes="2" scType="UK"/>
+                        <ph indexes="3" scType="UK"/>
+                        <ph indexes="4" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w>X</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w>tante</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1" scType="UK"/>
+                        <ph indexes="2" scType="UK"/>
+                        <ph indexes="3" scType="UK"/>
+                        <ph indexes="4" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w>nggak</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1" scType="UK"/>
+                        <ph indexes="2" scType="UK"/>
+                        <ph indexes="3" scType="UK"/>
+                        <ph indexes="4" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w>mo</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w>maen</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1" scType="UK"/>
+                        <ph indexes="2" scType="UK"/>
+                        <ph indexes="3" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w>lagi</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1" scType="UK"/>
+                        <ph indexes="2" scType="UK"/>
+                        <ph indexes="3" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w>deh</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1" scType="UK"/>
+                        <ph indexes="2" scType="UK"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+    </transcript>
+</session>

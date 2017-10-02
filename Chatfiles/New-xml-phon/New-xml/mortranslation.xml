@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="mortranslation" corpus="timmy" version="PB1.2">
+    <header>
+        <date>1984-01-01</date>
+        <language>zho</language>
+    </header>
+    <participants>
+        <participant id="CHI">
+            <role>Target Child</role>
+            <name>Timmy</name>
+            <age>P2Y9M8DT0H0M0S</age>
+            <language>zho</language>
+        </participant>
+        <participant id="LIN">
+            <role>Investigator</role>
+            <name>Linda</name>
+            <language>zho</language>
+        </participant>
+        <participant id="WIN">
+            <role>Investigator</role>
+            <name>Winnie</name>
+            <language>zho</language>
+        </participant>
+        <participant id="GEM">
+            <role>Housekeeper</role>
+            <name>Gemma</name>
+            <language>zho</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers>
+        <userTier tierName="Morphology" grouped="true"/>
+    </userTiers>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+        <tier tierName="Morphology" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <u speaker="CHI" id="03c0250a-4fb5-430e-9c08-7ff6367b37c7" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>sik6</w>
+                </g>
+                <g>
+                    <w>ping4gwo2</w>
+                </g>
+                <g>
+                    <w>caang2</w>
+                </g>
+                <g>
+                    <w>hoeng1ziu1</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <groupTier tierName="Morphology">
+                <tg>
+                    <w>v|sik6=eat</w>
+                </tg>
+                <tg>
+                    <w>n|ping4gwo2=apple</w>
+                </tg>
+                <tg>
+                    <w>n|caang2=orange</w>
+                </tg>
+                <tg>
+                    <w>n|hoeng1ziu1=banana</w>
+                    <w>.</w>
+                </tg>
+            </groupTier>
+        </u>
+    </transcript>
+</session>

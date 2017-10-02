@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="Weirdstuffex" corpus="Test" version="PB1.2">
+    <header>
+        <date>2011-09-14</date>
+        <language>fra eng</language>
+        <media>31.wav</media>
+    </header>
+    <participants>
+        <participant id="CHI">
+            <role>Target Child</role>
+            <name>Child</name>
+            <sex>female</sex>
+            <birthday>2006-07-24</birthday>
+            <age>P5Y1M1DT0H0M0S</age>
+            <language>fra eng</language>
+        </participant>
+        <participant id="MOT">
+            <role>Mother</role>
+            <name>Mom</name>
+            <sex>female</sex>
+            <birthday>1980-12-12</birthday>
+            <age>P30Y1M1DT0H0M0S</age>
+            <language>fra eng</language>
+        </participant>
+        <participant id="OBS">
+            <role>Observer</role>
+            <name>Camera</name>
+            <sex>female</sex>
+            <birthday>1970-01-01</birthday>
+            <age>P40Y1M1DT0H0M0S</age>
+            <language>fra eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers>
+        <userTier tierName="Morphology" grouped="true"/>
+        <userTier tierName="actions" grouped="false"/>
+    </userTiers>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+        <tier tierName="Morphology" visible="true" locked="false" font="default"/>
+        <tier tierName="actions" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Location">CHI's home</comment>
+        <comment type="Generic">coder - Françoise Bourdoux (June 2012) - Gabrielle Miesse (August 2012)</comment>
+        <comment type="Situation">MOT et CHI sont filmées par OBS</comment>
+        <comment type="Date">14-SEP-2011</comment>
+        <u speaker="CHI" id="72facb78-0b06-4963-b91e-1a7785d63519" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>euh</w>
+                </g>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>0il</w>
+                    <w>y</w>
+                    <w>en</w>
+                    <w>a</w>
+                    <com>//</com>
+                    <p type="CLOSE_BRACE">}</p>
+                </g>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>y</w>
+                    <w>a</w>
+                    <com>/</com>
+                    <p type="CLOSE_BRACE">}</p>
+                </g>
+                <g>
+                    <w>y</w>
+                    <w>a</w>
+                </g>
+                <g>
+                    <w>une</w>
+                </g>
+                <g>
+                    <w>photo</w>
+                    <com type="t">t:trail off</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w>əh</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w>jɑ̃na</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1 2" scType="UK"/>
+                        <ph indexes="3" scType="UK"/>
+                        <ph indexes="4" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w>ja</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w>ja</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w>yn</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w>fɔtɔ</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1" scType="UK"/>
+                        <ph indexes="2" scType="UK"/>
+                        <ph indexes="3" scType="UK"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="1760009.0" duration="7125.0" unitType="ms"/>
+            <flatTier tierName="actions">CHI prend une posture de singe</flatTier>
+            <groupTier tierName="Morphology">
+                <tg>
+                    <w>co|euh</w>
+                </tg>
+                <tg/>
+                <tg/>
+                <tg>
+                    <w>pro:y|y</w>
+                    <w>v:aux|avoir&amp;PRES&amp;3s</w>
+                </tg>
+                <tg>
+                    <w>det|une&amp;f&amp;sg</w>
+                </tg>
+                <tg>
+                    <w>n|photo&amp;f</w>
+                    <w>(mt:trail</w>
+                    <w>off)</w>
+                </tg>
+            </groupTier>
+        </u>
+        <u speaker="CHI" id="0923a300-b577-4a87-8397-c846b709da99" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>euh</w>
+                    <com>.</com>
+                </g>
+                <g>
+                    <w>euh</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w>əh</w>
+                    <w>(.)</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1" scType="UK"/>
+                        <ph indexes="2" scType="WB"/>
+                        <ph indexes="3 4 5" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w>əh</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1" scType="UK"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <groupTier tierName="Morphology">
+                <tg>
+                    <w>co|euh</w>
+                </tg>
+                <tg>
+                    <w>co|euh</w>
+                    <w>.</w>
+                </tg>
+            </groupTier>
+        </u>
+        <u speaker="CHI" id="7fb58e5b-04c8-47fd-90a6-af4d7121178e" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>0il</w>
+                </g>
+                <g>
+                    <w>y</w>
+                    <w>a</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w>ja</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1" scType="UK"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <notes tierName="Notes">Other potential orthography: ‹0il y a›</notes>
+        </u>
+        <u speaker="CHI" id="39204844-f621-4d2d-986e-2efa3c9c34e9" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                </g>
+                <g>
+                    <w>the</w>
+                </g>
+                <g>
+                    <w>word</w>
+                </g>
+                <g>
+                    <com>//</com>
+                </g>
+                <g>
+                    <p type="CLOSE_BRACE">}</p>
+                </g>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                </g>
+                <g>
+                    <w>word</w>
+                </g>
+                <g>
+                    <com>/</com>
+                </g>
+                <g>
+                    <p type="CLOSE_BRACE">}</p>
+                </g>
+                <g>
+                    <w>word</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w>ðə</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w>wʌɹd</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1" scType="UK"/>
+                        <ph indexes="2" scType="UK"/>
+                        <ph indexes="3" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w>wʌɹd</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1" scType="UK"/>
+                        <ph indexes="2" scType="UK"/>
+                        <ph indexes="3" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w>wʌɹd</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1" scType="UK"/>
+                        <ph indexes="2" scType="UK"/>
+                        <ph indexes="3" scType="UK"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="2">
+                    <phomap value="-1 0"/>
+                    <phomap value="-1 1"/>
+                </ag>
+                <ag length="4">
+                    <phomap value="-1 0"/>
+                    <phomap value="-1 1"/>
+                    <phomap value="-1 2"/>
+                    <phomap value="-1 3"/>
+                </ag>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="4">
+                    <phomap value="-1 0"/>
+                    <phomap value="-1 1"/>
+                    <phomap value="-1 2"/>
+                    <phomap value="-1 3"/>
+                </ag>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <notes tierName="Notes">notice words in &lt;&gt; are omitted in mor, not in pho</notes>
+            <groupTier tierName="Morphology">
+                <tg/>
+                <tg/>
+                <tg/>
+                <tg/>
+                <tg/>
+                <tg/>
+                <tg/>
+                <tg/>
+                <tg/>
+                <tg>
+                    <w>n|word</w>
+                    <w>.</w>
+                </tg>
+            </groupTier>
+        </u>
+    </transcript>
+</session>

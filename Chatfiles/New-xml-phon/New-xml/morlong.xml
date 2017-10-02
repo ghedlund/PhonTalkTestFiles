@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="morlong" corpus="belfast" version="PB1.2">
+    <header>
+        <date>1984-01-01</date>
+        <language>eng</language>
+    </header>
+    <participants>
+        <participant id="CHI">
+            <role>Target Child</role>
+            <name>Courtney</name>
+            <SES>upper-working-class</SES>
+            <birthday>1992-09-08</birthday>
+            <age>P3Y6M18DT0H0M0S</age>
+            <language>eng</language>
+        </participant>
+        <participant id="MOT">
+            <role>Mother</role>
+            <name>Tracy</name>
+            <language>eng</language>
+        </participant>
+        <participant id="INV">
+            <role>Investigator</role>
+            <name>Rose</name>
+            <language>eng</language>
+        </participant>
+        <participant id="FAT">
+            <role>Father</role>
+            <name>Tom</name>
+            <language>eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers>
+        <userTier tierName="Morphology" grouped="true"/>
+    </userTiers>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+        <tier tierName="Morphology" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Generic">Had to manually insert the # and -</comment>
+        <u speaker="INV" id="942a42a5-e766-4b36-872f-8a9e3468760f" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>Ethan's</w>
+                </g>
+                <g>
+                    <w>fast</w>
+                </g>
+                <g>
+                    <w>antidisestablishmentarianism</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <groupTier tierName="Morphology">
+                <tg>
+                    <w>n:prop|Ethan-POSS</w>
+                </tg>
+                <tg>
+                    <w>n|fast</w>
+                </tg>
+                <tg>
+                    <w>dis#anti#v|establish-ment-ari-an-ism</w>
+                    <w>.</w>
+                </tg>
+            </groupTier>
+        </u>
+    </transcript>
+</session>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="heritage-lsfal14a" corpus="esf" version="PB1.2">
+    <header>
+        <date>1983-05-09</date>
+        <language>fra spa</language>
+    </header>
+    <participants>
+        <participant id="SAL">
+            <role>Participant</role>
+            <name>alfonso</name>
+            <language>fra spa</language>
+        </participant>
+        <participant id="INE">
+            <role>Investigator</role>
+            <name>michèle mittner P pilar gomez</name>
+            <language>fra spa</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers/>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="TapeLocation">LSFAl04 SIDE A (002-258)</comment>
+        <comment type="Date">09-MAY-1983</comment>
+        <u speaker="INE" id="7113f648-e2f1-4fed-8cff-f9b8142d5c5c" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">blob:[%add:</com>
+                    <com type="blob">blob:to</com>
+                    <com type="blob">blob:son]</com>
+                    <com type="blob">blob:tu</com>
+                    <com type="blob">blob:as</com>
+                    <com type="blob">blob:mis</com>
+                    <com type="blob">blob:du</com>
+                    <com type="blob">blob:jus</com>
+                    <com type="blob">blob:d</com>
+                    <com type="blob">blob:abricot</com>
+                    <com type="blob">blob:partout</com>
+                    <com type="blob">blob:toi.</com>
+                    <com type="t">t:missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+    </transcript>
+</session>

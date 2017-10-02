@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="overlap-spread" corpus="SBCSAE" version="PB1.2">
+    <header>
+        <date>1984-01-01</date>
+        <language>eng</language>
+    </header>
+    <participants>
+        <participant id="JAMI">
+            <role>Speaker</role>
+            <name>JAMIE</name>
+            <language>eng</language>
+        </participant>
+        <participant id="HARO">
+            <role>Speaker</role>
+            <name>HAROLD</name>
+            <language>eng</language>
+        </participant>
+        <participant id="MILE">
+            <role>Speaker</role>
+            <name>MILES</name>
+            <language>eng</language>
+        </participant>
+        <participant id="PETE">
+            <role>Speaker</role>
+            <name>PETE</name>
+            <language>eng</language>
+        </participant>
+        <participant id="ENV">
+            <role>Environment</role>
+            <name>ENV</name>
+            <language>eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers/>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <u speaker="MILE" id="2bc3a29a-802c-41f0-91aa-7a644fd85331" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="overlap-point">overlap-point:start,top</com>
+                </g>
+                <g>
+                    <w>top</w>
+                    <com type="overlap-point">overlap-point:end,top</com>
+                    <com type="overlap-point">overlap-point:2,start,top</com>
+                </g>
+                <g>
+                    <w>second</w>
+                </g>
+                <g>
+                    <w>top</w>
+                    <com type="overlap-point">overlap-point:2,end,top</com>
+                    <com type="overlap-point">overlap-point:3,start,top</com>
+                </g>
+                <g>
+                    <w>third</w>
+                </g>
+                <g>
+                    <w>top</w>
+                    <com type="overlap-point">overlap-point:3,end,top</com>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+        <u speaker="JAMI" id="c9bd2da6-464c-44e4-9cac-80bf00d2dbc6" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="overlap-point">overlap-point:start,bottom</com>
+                </g>
+                <g>
+                    <w>bottom</w>
+                </g>
+                <g>
+                    <w>begin</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+        <u speaker="JAMI" id="40343fac-f9d4-46eb-9491-67ac7fe567e2" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>bottom</w>
+                </g>
+                <g>
+                    <w>end</w>
+                    <com type="overlap-point">overlap-point:end,bottom</com>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+        <u speaker="PETE" id="ec126cc4-0acc-45a6-80ac-a0fd6bf26aa4" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="overlap-point">overlap-point:2,start,bottom</com>
+                </g>
+                <g>
+                    <w>second</w>
+                </g>
+                <g>
+                    <w>bottom</w>
+                    <com type="overlap-point">overlap-point:2,end,bottom</com>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+        <u speaker="JAMI" id="5ae5dc8a-c25b-4aac-a224-185b5551a0eb" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="overlap-point">overlap-point:3,start,bottom</com>
+                </g>
+                <g>
+                    <w>third</w>
+                </g>
+                <g>
+                    <w>bottom</w>
+                </g>
+                <g>
+                    <w>begin</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+        <u speaker="JAMI" id="4b298b46-1308-46d2-8016-30e893b3c98d" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>third</w>
+                </g>
+                <g>
+                    <w>bottom</w>
+                </g>
+                <g>
+                    <w>end</w>
+                    <com type="overlap-point">overlap-point:3,end,bottom</com>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+    </transcript>
+</session>

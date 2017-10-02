@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="pho-mod-order" corpus="Paris-Corpus_Leonard" version="PB1.2">
+    <header>
+        <date>1992-06-23</date>
+        <language>fra</language>
+        <media>01.mov</media>
+    </header>
+    <participants>
+        <participant id="CHI">
+            <role>Target Child</role>
+            <name>Léonard</name>
+            <group>bi</group>
+            <sex>male</sex>
+            <birthday>1990-10-15</birthday>
+            <age>P1Y8M9DT0H0M0S</age>
+            <language>fra</language>
+        </participant>
+        <participant id="MOT">
+            <role>Mother</role>
+            <language>fra</language>
+        </participant>
+        <participant id="FAT">
+            <role>Father</role>
+            <language>fra</language>
+        </participant>
+        <participant id="PAT">
+            <role>Family Friend</role>
+            <language>fra</language>
+        </participant>
+        <participant id="OBS">
+            <role>Observer</role>
+            <name>Aliyah</name>
+            <language>fra</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers/>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Date">23-JUN-1992</comment>
+        <comment type="Generic">Test %mod and %pho order.</comment>
+        <u speaker="CHI" id="9fd6d2cd-1af5-4d51-bed9-79ecb2c03542" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>oh</w>
+                    <p type="EXCLAMATION">!</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w>ɔ</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w>oː</w>
+                    <sb>
+                        <ph indexes="0 1" scType="UK"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="12286.0" unitType="ms"/>
+        </u>
+    </transcript>
+</session>

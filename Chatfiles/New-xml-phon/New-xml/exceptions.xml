@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="exceptions" corpus="timmy" version="PB1.2">
+    <header>
+        <date>1996-02-29</date>
+        <language>eng</language>
+    </header>
+    <participants>
+        <participant id="CHI">
+            <role>Target Child</role>
+            <name>Timmy</name>
+            <age>P2Y9M8DT0H0M0S</age>
+            <language>eng</language>
+        </participant>
+        <participant id="LIN">
+            <role>Investigator</role>
+            <name>Linda</name>
+            <language>eng</language>
+        </participant>
+        <participant id="WIN">
+            <role>Investigator</role>
+            <name>Winnie</name>
+            <language>eng</language>
+        </participant>
+        <participant id="GEM">
+            <role>Housekeeper</role>
+            <name>Gemma</name>
+            <language>eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers/>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="TapeLocation">TI060 (side A)</comment>
+        <comment type="Date">29-FEB-1996</comment>
+        <comment type="TimeDuration">17:30-18:00</comment>
+        <comment type="Exceptions">foo*, bar, bAz</comment>
+        <u speaker="CHI" id="14cbc2ef-bfcf-4839-9750-1e3bd3ea1630" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>foo</w>
+                </g>
+                <g>
+                    <w>bAz</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+    </transcript>
+</session>

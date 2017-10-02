@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="mor-empty" corpus="yipmatthews" version="PB1.2">
+    <header>
+        <date>2001-09-21</date>
+        <language>zho eng</language>
+        <media>ac010921.mov</media>
+    </header>
+    <participants>
+        <participant id="CHI">
+            <role>Target Child</role>
+            <name>Alicia</name>
+            <birthday>2000-05-28</birthday>
+            <age>P1Y3M24DT0H0M0S</age>
+            <language>zho eng</language>
+        </participant>
+        <participant id="MIC">
+            <role>Investigator</role>
+            <name>Michelle</name>
+            <language>zho eng</language>
+        </participant>
+        <participant id="CES">
+            <role>Investigator</role>
+            <name>Ee San</name>
+            <language>zho eng</language>
+        </participant>
+        <participant id="FAT">
+            <role>Father</role>
+            <language>zho eng</language>
+        </participant>
+        <participant id="HOU">
+            <role>Housekeeper</role>
+            <name>Belma</name>
+            <language>zho eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers>
+        <userTier tierName="Morphology" grouped="true"/>
+    </userTiers>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+        <tier tierName="Morphology" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Date">21-SEP-2001</comment>
+        <comment type="TapeLocation">A028</comment>
+        <comment type="Transcriber">Michelle Li, Uta Lam</comment>
+        <comment type="Generic">16 minutes recording</comment>
+        <u speaker="MIC" id="cffdfe63-3c11-4198-908f-59972d04a7d4" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>&amp;hm</w>
+                    <p type="QUESTION">?</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="1204305.0" duration="2047.0" unitType="ms"/>
+            <groupTier tierName="Morphology">
+                <tg>
+                    <w>?</w>
+                </tg>
+            </groupTier>
+        </u>
+    </transcript>
+</session>

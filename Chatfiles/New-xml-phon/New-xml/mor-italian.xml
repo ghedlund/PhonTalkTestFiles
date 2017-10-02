@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="mor-italian" corpus="tonelli" version="PB1.2">
+    <header>
+        <date>1997-07-06</date>
+        <language>ita</language>
+    </header>
+    <participants>
+        <participant id="MAR">
+            <role>Child</role>
+            <name>Marco</name>
+            <sex>male</sex>
+            <birthday>1995-01-12</birthday>
+            <age>P2Y5M24DT0H0M0S</age>
+            <language>ita</language>
+        </participant>
+        <participant id="MOT">
+            <role>Mother</role>
+            <language>ita</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers>
+        <userTier tierName="Morphology" grouped="true"/>
+    </userTiers>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+        <tier tierName="Morphology" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Location">Udine</comment>
+        <comment type="Date">06-JUL-1997</comment>
+        <comment type="Generic">Italian mor with clitic</comment>
+        <u speaker="MOT" id="68408ac6-fa61-4659-9d5b-c103da12ef20" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>bisogna</w>
+                </g>
+                <g>
+                    <w>metterne</w>
+                </g>
+                <g>
+                    <w>via</w>
+                </g>
+                <g>
+                    <w>ancora</w>
+                </g>
+                <g>
+                    <w>Marco</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <groupTier tierName="Morphology">
+                <tg>
+                    <w>v|bisogna-3S&amp;PRES=need</w>
+                </tg>
+                <tg>
+                    <w>v:inf|mette-INF~pro:clit|part=put</w>
+                </tg>
+                <tg>
+                    <w>adv|via</w>
+                </tg>
+                <tg>
+                    <w>v|ancora-3S&amp;PRES=anchor</w>
+                </tg>
+                <tg>
+                    <w>n:prop|Marco</w>
+                    <w>.</w>
+                </tg>
+            </groupTier>
+        </u>
+    </transcript>
+</session>

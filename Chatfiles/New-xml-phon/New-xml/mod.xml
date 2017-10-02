@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="mod" corpus="mcf" version="PB1.2">
+    <header>
+        <date>1987-05-01</date>
+        <language>por swe</language>
+    </header>
+    <participants>
+        <participant id="CHI">
+            <role>Target Child</role>
+            <name>Karin</name>
+            <age>P1Y9M0DT0H0M0S</age>
+            <language>por swe</language>
+        </participant>
+        <participant id="DAD">
+            <role>Father</role>
+            <name>Peter</name>
+            <language>por swe</language>
+        </participant>
+        <participant id="MUM">
+            <role>Mother</role>
+            <name>Madalena</name>
+            <language>por swe</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers>
+        <userTier tierName="target gloss" grouped="false"/>
+        <userTier tierName="english translation" grouped="false"/>
+        <userTier tierName="pho" grouped="false"/>
+        <userTier tierName="mod" grouped="false"/>
+        <userTier tierName="intonation" grouped="false"/>
+    </userTiers>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+        <tier tierName="target gloss" visible="true" locked="false" font="default"/>
+        <tier tierName="english translation" visible="true" locked="false" font="default"/>
+        <tier tierName="pho" visible="true" locked="false" font="default"/>
+        <tier tierName="mod" visible="true" locked="false" font="default"/>
+        <tier tierName="intonation" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Transcriber">MCF</comment>
+        <comment type="Transcriber">MCF</comment>
+        <comment type="Date">01-MAY-1987</comment>
+        <comment type="TapeLocation">Video 1 sd.</comment>
+        <comment type="Location">Viken, Sweden.</comment>
+        <comment type="Situation">sitting at a table at home with Father, Karin in her high chair. Mother is videotaping.</comment>
+        <comment type="Activities">playing with crayons and paper on the table.</comment>
+        <u speaker="CHI" id="e9442909-f4e7-4930-8c32-e4958611705d" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>n&lt;e&gt;j</w>
+                </g>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>&lt;v&gt;ill</w>
+                    <com>?</com>
+                    <p type="CLOSE_BRACE">}</p>
+                </g>
+                <g>
+                    <w>&lt;h&gt;a</w>
+                </g>
+                <g>
+                    <w>han&lt;d&gt;</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <flatTier tierName="english translation">no, I want the hand .</flatTier>
+            <flatTier tierName="intonation">LL on syllabic nasal, HF on the next three sylls, MR on last word .</flatTier>
+            <flatTier tierName="mod">neʝ vil hɑː ˈhandən</flatTier>
+            <flatTier tierName="pho">n̩ːːiwʊaˈhan̚</flatTier>
+            <flatTier tierName="target gloss">nej, jag vill ha handen .</flatTier>
+        </u>
+    </transcript>
+</session>

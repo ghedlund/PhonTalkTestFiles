@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="omission" corpus="timmy" version="PB1.2">
+    <header>
+        <date>1996-02-29</date>
+        <language>eng</language>
+    </header>
+    <participants>
+        <participant id="CHI">
+            <role>Target Child</role>
+            <name>Timmy</name>
+            <age>P2Y9M8DT0H0M0S</age>
+            <language>eng</language>
+        </participant>
+        <participant id="LIN">
+            <role>Investigator</role>
+            <name>Linda</name>
+            <language>eng</language>
+        </participant>
+        <participant id="WIN">
+            <role>Investigator</role>
+            <name>Winnie</name>
+            <language>eng</language>
+        </participant>
+        <participant id="GEM">
+            <role>Housekeeper</role>
+            <name>Gemma</name>
+            <language>eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers/>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Date">29-FEB-1996</comment>
+        <comment type="Generic">test omissions</comment>
+        <u speaker="CHI" id="4984a599-ce64-4056-b217-c0fea3519912" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>a&lt;b&gt;c&lt;d&gt;</w>
+                </g>
+                <g>
+                    <w>efg</w>
+                </g>
+                <g>
+                    <w>hij&lt;k&gt;</w>
+                </g>
+                <g>
+                    <w>lmn&lt;o&gt;p</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+        <comment type="Generic">underscores</comment>
+        <u speaker="CHI" id="80a1cba4-fd10-47e8-bd31-00f15f1daded" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>Wi&lt;nnie_the&gt;_Pooh</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+    </transcript>
+</session>

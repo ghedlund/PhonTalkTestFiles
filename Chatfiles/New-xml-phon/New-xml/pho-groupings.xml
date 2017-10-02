@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="pho-groupings" corpus="IDO" version="PB1.2">
+    <header>
+        <date>2000-06-23</date>
+        <language>ind jav</language>
+    </header>
+    <participants>
+        <participant id="CHI">
+            <role>Target Child</role>
+            <name>Ido</name>
+            <sex>male</sex>
+            <birthday>1996-01-01</birthday>
+            <age>P4Y5M21DT0H0M0S</age>
+            <language>ind jav</language>
+        </participant>
+        <participant id="MOT">
+            <role>Mother</role>
+            <name>Rimi</name>
+            <sex>female</sex>
+            <language>ind jav</language>
+        </participant>
+        <participant id="EXP">
+            <role>Investigator</role>
+            <name>Bety</name>
+            <sex>female</sex>
+            <age>P25Y1M14DT0H0M0S</age>
+            <language>ind jav</language>
+        </participant>
+        <participant id="ABA">
+            <role>Brother</role>
+            <name>Praba</name>
+            <sex>male</sex>
+            <birthday>1994-10-31</birthday>
+            <age>P5Y7M22DT0H0M0S</age>
+            <language>ind jav</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers/>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Date">23-JUN-2000</comment>
+        <comment type="Generic">Test Brian's problem</comment>
+        <u speaker="CHI" id="0b29fabd-2206-455e-b7b6-176b5e416fa4" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>mais</w>
+                </g>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                </g>
+                <g>
+                    <w>c'est</w>
+                </g>
+                <g>
+                    <com>//</com>
+                </g>
+                <g>
+                    <p type="CLOSE_BRACE">}</p>
+                </g>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                </g>
+                <g>
+                    <w>ce+qu'</w>
+                </g>
+                <g>
+                    <w>y+a</w>
+                </g>
+                <g>
+                    <w>en</w>
+                    <w>haut</w>
+                </g>
+                <g>
+                    <com>&gt;</com>
+                </g>
+                <g>
+                    <p type="CLOSE_BRACE">}</p>
+                    <com type="t">t:interruption</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w>mɛ</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w>sɛ</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w>sk</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w>ja</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                        <ph indexes="1" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w>ɑ̃o</w>
+                    <sb>
+                        <ph indexes="0 1" scType="UK"/>
+                        <ph indexes="2" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="2">
+                    <phomap value="-1 0"/>
+                    <phomap value="-1 1"/>
+                </ag>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="2">
+                    <phomap value="-1 0"/>
+                    <phomap value="-1 1"/>
+                </ag>
+                <ag length="2">
+                    <phomap value="-1 0"/>
+                    <phomap value="-1 1"/>
+                </ag>
+                <ag length="2">
+                    <phomap value="-1 0"/>
+                    <phomap value="-1 1"/>
+                </ag>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+    </transcript>
+</session>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="mor-translation-gra" corpus="BermanLong" version="PB1.2">
+    <header>
+        <date>1990-02-15</date>
+        <language>heb</language>
+    </header>
+    <participants>
+        <participant id="CHI">
+            <role>Child</role>
+            <name>Hagar</name>
+            <sex>female</sex>
+            <age>P3Y3M11DT0H0M0S</age>
+            <language>heb</language>
+        </participant>
+        <participant id="MOT">
+            <role>Mother</role>
+            <name>Inbal</name>
+            <language>heb</language>
+        </participant>
+        <participant id="FAT">
+            <role>Father</role>
+            <name>Moshe</name>
+            <language>heb</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers>
+        <userTier tierName="GRASP" grouped="true"/>
+        <userTier tierName="Morphology" grouped="true"/>
+    </userTiers>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+        <tier tierName="GRASP" visible="true" locked="false" font="default"/>
+        <tier tierName="Morphology" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Date">15-FEB-1990</comment>
+        <comment type="Generic">mor translation with gra</comment>
+        <u speaker="FAT" id="e03d273e-7aa5-40c9-85a8-13dcb2e722c4" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>&amp;a</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+        <u speaker="FAT" id="3a11111d-59e5-4631-a031-a8d9ec94b606" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>Hagāri</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <groupTier tierName="Morphology">
+                <tg>
+                    <w>n:prop|Hagāri</w>
+                    <w>.</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="GRASP">
+                <tg>
+                    <w>1|0|ROOT</w>
+                    <w>2|1|PUNCT</w>
+                </tg>
+            </groupTier>
+        </u>
+        <u speaker="CHI" id="2d3bc594-8565-4b47-9bf7-e4a47152bb8d" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>ma</w>
+                    <p type="QUESTION">?</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <groupTier tierName="Morphology">
+                <tg>
+                    <w>que|ma=what</w>
+                    <w>?</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="GRASP">
+                <tg>
+                    <w>1|0|ROOT</w>
+                    <w>2|1|PUNCT</w>
+                </tg>
+            </groupTier>
+        </u>
+    </transcript>
+</session>

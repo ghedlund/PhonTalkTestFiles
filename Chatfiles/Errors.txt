@@ -1,0 +1,5 @@
+What doesn't pass:
+
+No age range (i.e. 1;8. - 1;9.)
+@pm
+character U+F176 not accepted

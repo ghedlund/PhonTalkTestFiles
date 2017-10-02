@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Version="2.5.0"
+      Lang="eng"
+      Corpus="Test"
+      Date="1999-06-30">
+  <Participants>
+    <participant
+      id="CHI"
+    name="Alex"
+      role="Target_Child"
+      language="eng"
+      age="P2Y5M17D"
+      sex="male"
+
+      birthday="1997-01-13"
+
+    />
+  </Participants>
+  <comment type="Date">30-JUN-1999</comment>
+  <u who="CHI" uID="u0">
+    <g><w>word</w><k type="best guess"/></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u1">
+    <e><action/><ga type="explanation">did nothing</ga></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u2">
+    <g><w>word</w><ga type="explanation">did something</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u3">
+    <w>year</w>
+    <e><happening>'91</happening></e>
+    <w>bar</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u4">
+    <w>I</w>
+    <w>have</w>
+    <e><happening>foo:bar:baz</happening></e>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u5">
+    <w>I</w>
+    <w>have</w>
+    <e><happening>$</happening></e>
+    <e><happening>5</happening></e>
+    <w>million</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u6">
+    <w>foo</w>
+    <w type="fragment">au<p type="pause"/>bg</w>
+    <w>bar</w>
+    <w type="fragment">foo<p type="drawl"/><p type="drawl"/>bar</w>
+    <w type="fragment">foo<p type="drawl"/><p type="drawl"/></w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u7">
+    <w>foo</w>
+    <e><happening>head:no</happening></e>
+    <w>bar</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u8">
+    <w>foo</w>
+    <e><happening>head</happening><ga type="explanation">head</ga></e>
+    <w>bar</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u9">
+    <w>foo</w>
+    <e><happening>1</happening></e>
+    <w>bar</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u10">
+    <w>'<underline type="begin"/>er<underline type="end"/></w>
+    <w>is</w>
+    <w>he<p type="drawl"/>'</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u11">
+    <w type="fragment">gʰan</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u12">
+    <w>This</w>
+    <w>is</w>
+    <w>a</w>
+    <w>test</w>
+    <w>of</w>
+    <w>bck</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="CHI" uID="u13">
+    <w>what</w>
+    <s type="clause delimiter"/>
+    <w>why</w>
+    <w>now</w>
+    <t type="q"></t>
+
+  </u>
+</CHAT>

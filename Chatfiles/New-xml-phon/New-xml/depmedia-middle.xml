@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="depmedia-middle" corpus="stevens" version="PB1.2">
+    <header>
+        <date>1984-01-01</date>
+        <language>eng</language>
+        <media>firm.mov</media>
+    </header>
+    <participants>
+        <participant id="EN1">
+            <role>Student</role>
+            <name>Engineer1</name>
+            <language>eng</language>
+        </participant>
+        <participant id="AR1">
+            <role>Student</role>
+            <name>Architect1</name>
+            <language>eng</language>
+        </participant>
+        <participant id="EN2">
+            <role>Student</role>
+            <name>Enginneer2</name>
+            <language>eng</language>
+        </participant>
+        <participant id="AR2">
+            <role>Student</role>
+            <name>Architect2</name>
+            <language>eng</language>
+        </participant>
+        <participant id="PR1">
+            <role>Student</role>
+            <name>Preservationist</name>
+            <language>eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers>
+        <userTier tierName="coding" grouped="false"/>
+    </userTiers>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+        <tier tierName="coding" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Generic">bullet inside a dependent tier</comment>
+        <u speaker="EN2" id="f8e3ba1a-9e74-4b8c-8acb-7db756168660" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>and</w>
+                </g>
+                <g>
+                    <w>I'm</w>
+                </g>
+                <g>
+                    <w>getting</w>
+                </g>
+                <g>
+                    <w>demand</w>
+                </g>
+                <g>
+                    <w>capacity</w>
+                </g>
+                <g>
+                    <w>ratios</w>
+                </g>
+                <g>
+                    <w>of</w>
+                </g>
+                <g>
+                    <w>one</w>
+                </g>
+                <g>
+                    <w>point</w>
+                </g>
+                <g>
+                    <w>five</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="32221.0" duration="5407.0" unitType="ms"/>
+        </u>
+        <u speaker="AR1" id="6b7d3dcf-316c-422d-aabe-e03d40e7979c" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>hmmm</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="37628.0" duration="1265.0" unitType="ms"/>
+        </u>
+        <u speaker="EN2" id="c4d1d0ad-b3ad-49ff-a0c8-c2df2e35d8b8" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>and</w>
+                    <p type="COMMA">,</p>
+                </g>
+                <g>
+                    <w>uh</w>
+                    <p type="COMMA">,</p>
+                </g>
+                <g>
+                    <w>one</w>
+                </g>
+                <g>
+                    <w>point</w>
+                </g>
+                <g>
+                    <w>one</w>
+                    <p type="COMMA">,</p>
+                </g>
+                <g>
+                    <w>ok</w>
+                    <p type="QUESTION">?</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="38893.0" duration="3280.0" unitType="ms"/>
+        </u>
+        <u speaker="EN2" id="6daff7be-af96-47cf-b596-07c88bfde329" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>we</w>
+                </g>
+                <g>
+                    <w>need</w>
+                </g>
+                <g>
+                    <w>to</w>
+                    <e>underline:begin</e>
+                </g>
+                <g>
+                    <w>do</w>
+                    <e>underline:end</e>
+                </g>
+                <g>
+                    <w>something</w>
+                    <e>underline:begin</e>
+                </g>
+                <g>
+                    <w>to</w>
+                    <e>underline:end</e>
+                </g>
+                <g>
+                    <w>that</w>
+                </g>
+                <g>
+                    <w>wall</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="47685.0" duration="2320.0" unitType="ms"/>
+            <flatTier tierName="coding">palm down hand opens, and bobs up and down over the west wall  (000:48.908-000:50.441)</flatTier>
+        </u>
+    </transcript>
+</session>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="dep-tiers" corpus="bates" version="PB1.2">
+    <header>
+        <date>1984-01-01</date>
+        <language>eng</language>
+    </header>
+    <participants>
+        <participant id="CHI">
+            <role>Child</role>
+            <group>normal</group>
+            <sex>female</sex>
+            <age>P1Y8M0DT0H0M0S</age>
+            <language>eng</language>
+        </participant>
+        <participant id="MOT">
+            <role>Mother</role>
+            <language>eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers>
+        <userTier tierName="actions" grouped="false"/>
+        <userTier tierName="addressee" grouped="false"/>
+        <userTier tierName="alternative" grouped="false"/>
+        <userTier tierName="cohesion" grouped="false"/>
+        <userTier tierName="SALT" grouped="false"/>
+        <userTier tierName="english translation" grouped="false"/>
+        <userTier tierName="errcoding" grouped="false"/>
+        <userTier tierName="explanation" grouped="false"/>
+        <userTier tierName="facial" grouped="false"/>
+        <userTier tierName="flow" grouped="false"/>
+        <userTier tierName="target gloss" grouped="false"/>
+        <userTier tierName="gesture" grouped="false"/>
+        <userTier tierName="intonation" grouped="false"/>
+        <userTier tierName="language" grouped="false"/>
+        <userTier tierName="ort" grouped="false"/>
+        <userTier tierName="paralinguistics" grouped="false"/>
+        <userTier tierName="situation" grouped="false"/>
+        <userTier tierName="speech act" grouped="false"/>
+        <userTier tierName="time stamp" grouped="false"/>
+        <userTier tierName="coding" grouped="false"/>
+        <userTier tierName="foo" grouped="false"/>
+        <userTier tierName="ch" grouped="false"/>
+        <userTier tierName="RES" grouped="false"/>
+        <userTier tierName="abcdef" grouped="false"/>
+    </userTiers>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+        <tier tierName="actions" visible="true" locked="false" font="default"/>
+        <tier tierName="addressee" visible="true" locked="false" font="default"/>
+        <tier tierName="alternative" visible="true" locked="false" font="default"/>
+        <tier tierName="cohesion" visible="true" locked="false" font="default"/>
+        <tier tierName="SALT" visible="true" locked="false" font="default"/>
+        <tier tierName="english translation" visible="true" locked="false" font="default"/>
+        <tier tierName="errcoding" visible="true" locked="false" font="default"/>
+        <tier tierName="explanation" visible="true" locked="false" font="default"/>
+        <tier tierName="facial" visible="true" locked="false" font="default"/>
+        <tier tierName="flow" visible="true" locked="false" font="default"/>
+        <tier tierName="target gloss" visible="true" locked="false" font="default"/>
+        <tier tierName="gesture" visible="true" locked="false" font="default"/>
+        <tier tierName="intonation" visible="true" locked="false" font="default"/>
+        <tier tierName="language" visible="true" locked="false" font="default"/>
+        <tier tierName="ort" visible="true" locked="false" font="default"/>
+        <tier tierName="paralinguistics" visible="true" locked="false" font="default"/>
+        <tier tierName="situation" visible="true" locked="false" font="default"/>
+        <tier tierName="speech act" visible="true" locked="false" font="default"/>
+        <tier tierName="time stamp" visible="true" locked="false" font="default"/>
+        <tier tierName="coding" visible="true" locked="false" font="default"/>
+        <tier tierName="foo" visible="true" locked="false" font="default"/>
+        <tier tierName="ch" visible="true" locked="false" font="default"/>
+        <tier tierName="RES" visible="true" locked="false" font="default"/>
+        <tier tierName="abcdef" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Generic">All the dependent tiers besides 1-1</comment>
+        <u speaker="CHI" id="595dd863-2afc-4bc4-9609-658b61af0353" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>hey</w>
+                </g>
+                <g>
+                    <w>man</w>
+                </g>
+                <g>
+                    <w>what</w>
+                </g>
+                <g>
+                    <w>in</w>
+                </g>
+                <g>
+                    <w>the</w>
+                </g>
+                <g>
+                    <w>world</w>
+                </g>
+                <g>
+                    <w>isn't</w>
+                </g>
+                <g>
+                    <w>this</w>
+                    <p type="QUESTION">?</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <notes tierName="Notes">comments [foo]</notes>
+            <flatTier tierName="RES">In this opening segment the class reviews what they studied last time. In fact, the whole lesson is devoted to reviewing previously learned material. In the Czech data set, 25% of the lessons were entirely review (Hiebert et al., 2003, Mathematics Teaching in Seven Countries: Results from the TIMSS 1999 Video Study [hereafter Video Report], figure 3.9).</flatTier>
+            <flatTier tierName="english translation">english translation</flatTier>
+            <flatTier tierName="intonation">intonation</flatTier>
+            <flatTier tierName="time stamp">23:12:33</flatTier>
+            <flatTier tierName="ch">this is xch stuff</flatTier>
+            <flatTier tierName="speech act">speech act</flatTier>
+            <flatTier tierName="foo">/"{: o/</flatTier>
+            <flatTier tierName="alternative">alternative</flatTier>
+            <flatTier tierName="errcoding">errcoding</flatTier>
+            <flatTier tierName="language">language</flatTier>
+            <flatTier tierName="explanation">explanation</flatTier>
+            <flatTier tierName="gesture">gesture</flatTier>
+            <flatTier tierName="SALT">salt</flatTier>
+            <flatTier tierName="ort">orthography</flatTier>
+            <flatTier tierName="coding">coding</flatTier>
+            <flatTier tierName="paralinguistics">paralinguistics</flatTier>
+            <flatTier tierName="addressee">addressee</flatTier>
+            <flatTier tierName="abcdef">max length of 7 total</flatTier>
+            <flatTier tierName="cohesion">cohesion</flatTier>
+            <flatTier tierName="actions">actions</flatTier>
+            <flatTier tierName="target gloss">target gloss</flatTier>
+            <flatTier tierName="flow">flow</flatTier>
+            <flatTier tierName="situation">situation</flatTier>
+            <flatTier tierName="facial">facial</flatTier>
+        </u>
+    </transcript>
+</session>

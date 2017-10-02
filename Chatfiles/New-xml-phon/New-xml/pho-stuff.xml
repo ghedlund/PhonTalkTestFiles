@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="pho-stuff" corpus="IDO" version="PB1.2">
+    <header>
+        <date>2000-06-23</date>
+        <language>ind jav</language>
+    </header>
+    <participants>
+        <participant id="CHI">
+            <role>Target Child</role>
+            <name>Ido</name>
+            <sex>male</sex>
+            <birthday>1996-01-01</birthday>
+            <age>P4Y5M21DT0H0M0S</age>
+            <language>ind jav</language>
+        </participant>
+        <participant id="MOT">
+            <role>Mother</role>
+            <name>Rimi</name>
+            <sex>female</sex>
+            <language>ind jav</language>
+        </participant>
+        <participant id="EXP">
+            <role>Investigator</role>
+            <name>Bety</name>
+            <sex>female</sex>
+            <age>P25Y1M14DT0H0M0S</age>
+            <language>ind jav</language>
+        </participant>
+        <participant id="ABA">
+            <role>Brother</role>
+            <name>Praba</name>
+            <sex>male</sex>
+            <birthday>1994-10-31</birthday>
+            <age>P5Y7M22DT0H0M0S</age>
+            <language>ind jav</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers>
+        <userTier tierName="pho" grouped="false"/>
+    </userTiers>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+        <tier tierName="pho" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Date">23-JUN-2000</comment>
+        <u speaker="EXP" id="ce237974-593d-40cc-a218-aa5e7ec989aa" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>entar</w>
+                </g>
+                <g>
+                    <w>Tante</w>
+                </g>
+                <g>
+                    <w>nggak</w>
+                </g>
+                <g>
+                    <w>mo</w>
+                </g>
+                <g>
+                    <w>maen</w>
+                </g>
+                <g>
+                    <w>lagi</w>
+                </g>
+                <g>
+                    <w>deh</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <flatTier tierName="pho">ʔə˜tar tantəŋgaʔ mɔ maɛn lagi dɛh</flatTier>
+        </u>
+    </transcript>
+</session>

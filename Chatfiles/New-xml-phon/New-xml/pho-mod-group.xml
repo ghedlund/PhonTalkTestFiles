@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="pho-mod-group" corpus="IDO" version="PB1.2">
+    <header>
+        <date>2000-06-23</date>
+        <language>ind jav</language>
+    </header>
+    <participants>
+        <participant id="CHI">
+            <role>Target Child</role>
+            <name>Ido</name>
+            <sex>male</sex>
+            <age>P4Y5M21DT0H0M0S</age>
+            <language>ind jav</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers/>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Date">23-JUN-2000</comment>
+        <comment type="Generic">Test new pho with mod</comment>
+        <u speaker="CHI" id="44202217-1231-4dd4-90ff-5aade818c2bf" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>A</w>
+                </g>
+                <g>
+                    <w>B</w>
+                </g>
+                <g>
+                    <w>C</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w>d</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w>e</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w>f</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w>a</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w>b</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                    </sb>
+                </pg>
+                <pg>
+                    <w>c</w>
+                    <sb>
+                        <ph indexes="0" scType="UK"/>
+                    </sb>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+    </transcript>
+</session>

@@ -1,0 +1,1337 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="long-features" corpus="SBCSAE" version="PB1.2">
+    <header>
+        <date>1984-01-01</date>
+        <language>eng</language>
+        <media>46.wav</media>
+    </header>
+    <participants>
+        <participant id="ENV">
+            <role>Environment</role>
+            <name>FAKE ENV</name>
+            <language>eng</language>
+        </participant>
+        <participant id="REED">
+            <role>Speaker</role>
+            <name>REED</name>
+            <language>eng</language>
+        </participant>
+        <participant id="DARRE">
+            <role>Speaker</role>
+            <name>DARREN</name>
+            <language>eng</language>
+        </participant>
+        <participant id="SALLY">
+            <role>Speaker</role>
+            <name>SALLY</name>
+            <language>eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers/>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <u speaker="REED" id="66640852-7542-477d-9e57-16507cf33dfe" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com>..</com>
+                </g>
+                <g>
+                    <w>Hey</w>
+                </g>
+                <g>
+                    <w>man</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="2589.0" duration="1858.0" unitType="ms"/>
+        </u>
+        <u speaker="DARRE" id="724c43c0-a903-436b-bcd9-00810d9cfc49" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>Hey</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="4447.0" duration="487.0" unitType="ms"/>
+        </u>
+        <u speaker="REED" id="0492a367-405f-4c7e-a391-af628e5cabda" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com>..</com>
+                </g>
+                <g>
+                    <w>Good</w>
+                </g>
+                <g>
+                    <w>to</w>
+                </g>
+                <g>
+                    <w>see</w>
+                </g>
+                <g>
+                    <w>you</w>
+                    <com type="internal-media">internal-media:4.934-6.420</com>
+                    <e>laugh</e>
+                    <e>laugh</e>
+                    <com type="internal-media">internal-media:6.420-6.954</com>
+                    <com>..</com>
+                </g>
+                <g>
+                    <w>we:ll</w>
+                    <com type="internal-media">internal-media:6.954-8.464</com>
+                    <com>..</com>
+                </g>
+                <g>
+                    <w>I</w>
+                </g>
+                <g>
+                    <w>see</w>
+                </g>
+                <g>
+                    <w>you</w>
+                </g>
+                <g>
+                    <w>went</w>
+                </g>
+                <g>
+                    <w>ahead</w>
+                </g>
+                <g>
+                    <w>with</w>
+                </g>
+                <g>
+                    <w>your</w>
+                </g>
+                <g>
+                    <w>plans</w>
+                </g>
+                <g>
+                    <w>to</w>
+                </g>
+                <g>
+                    <w>do</w>
+                </g>
+                <g>
+                    <w>a</w>
+                </g>
+                <g>
+                    <w>little</w>
+                </g>
+                <g>
+                    <w>skiing</w>
+                </g>
+                <g>
+                    <w>there</w>
+                    <p type="QUESTION">?</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="8464.0" duration="3864.0" unitType="ms"/>
+        </u>
+        <u speaker="DARRE" id="af495d27-0090-478b-afa1-203f3aafca33" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com>.</com>
+                </g>
+                <g>
+                    <w>I</w>
+                </g>
+                <g>
+                    <w>did</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="12328.0" duration="551.0" unitType="ms"/>
+        </u>
+        <u speaker="DARRE" id="a09149a7-b95f-4c3e-b5af-3dee464a197e" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <e>laugh</e>
+                    <e>laugh</e>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="12879.0" duration="355.0" unitType="ms"/>
+        </u>
+        <u speaker="SALLY" id="b7a415f9-aef7-41f6-9956-d3158b38d173" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <e>laugh</e>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="13234.0" duration="174.0" unitType="ms"/>
+        </u>
+        <u speaker="REED" id="5f1451d3-5a3c-4e90-91ff-19f6863469d0" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>We:ll</w>
+                    <com type="internal-media">internal-media:13.408-14.046</com>
+                </g>
+                <g>
+                    <w>I'm</w>
+                </g>
+                <g>
+                    <w>glad</w>
+                </g>
+                <g>
+                    <w>you</w>
+                </g>
+                <g>
+                    <w>didn't</w>
+                </g>
+                <g>
+                    <w>hurt</w>
+                </g>
+                <g>
+                    <w>yourself</w>
+                </g>
+                <g>
+                    <w>too</w>
+                </g>
+                <g>
+                    <w>bad</w>
+                    <com type="t">t:trail off</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="14046.0" duration="1533.0" unitType="ms"/>
+        </u>
+        <u speaker="DARRE" id="d28d5685-973e-464b-987f-2374f463a679" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="overlap-point">overlap-point:start,top</com>
+                </g>
+                <g>
+                    <w>Me</w>
+                </g>
+                <g>
+                    <w>too</w>
+                    <com type="overlap-point">overlap-point:end,top</com>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="15579.0" duration="605.999" unitType="ms"/>
+        </u>
+        <u speaker="REED" id="554a1bc5-5004-48ee-9c9e-eddc4e7710b2" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="overlap-point">overlap-point:start,bottom</com>
+                </g>
+                <g>
+                    <w>and</w>
+                </g>
+                <g>
+                    <w>she</w>
+                </g>
+                <g>
+                    <w>says</w>
+                    <com type="overlap-point">overlap-point:end,bottom</com>
+                </g>
+                <g>
+                    <w>you're</w>
+                    <com type="overlap-point">overlap-point:2,start,top</com>
+                </g>
+                <g>
+                    <w>getting</w>
+                </g>
+                <g>
+                    <w>better</w>
+                    <com type="overlap-point">overlap-point:2,end,top</com>
+                </g>
+                <g>
+                    <w>already</w>
+                    <com type="t">t:trail off</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="15637.0" duration="1526.0" unitType="ms"/>
+        </u>
+        <u speaker="ENV" id="173b253d-f5c8-4585-b5f8-8f0a7c1ec045" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="overlap-point">overlap-point:2,start,bottom</com>
+                    <e>DOOR_CLOSING</e>
+                    <com type="overlap-point">overlap-point:2,end,bottom</com>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="16212.0" duration="576.0" unitType="ms"/>
+        </u>
+        <u speaker="REED" id="9f607748-8ac3-4810-a30e-75a9395edded" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>so</w>
+                </g>
+                <g>
+                    <w>that's</w>
+                </g>
+                <g>
+                    <w>always</w>
+                </g>
+                <g>
+                    <w>a</w>
+                </g>
+                <g>
+                    <w>good</w>
+                </g>
+                <g>
+                    <w>sign</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="17163.0" duration="1428.0" unitType="ms"/>
+        </u>
+        <u speaker="DARRE" id="b234f278-6538-47f9-b2ed-ec6c5c1c9db6" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com>.</com>
+                </g>
+                <g>
+                    <w>Yeah</w>
+                    <com type="internal-media">internal-media:18.591-18.969</com>
+                </g>
+                <g>
+                    <w>I</w>
+                </g>
+                <g>
+                    <w>mean</w>
+                </g>
+                <g>
+                    <w>I</w>
+                </g>
+                <g>
+                    <w>couldn't</w>
+                    <com type="t">t:interruption</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="18969.0" duration="650.0" unitType="ms"/>
+        </u>
+        <u speaker="DARRE" id="0bce856e-0424-4264-b0e2-63fee64bcc59" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com>..</com>
+                </g>
+                <g>
+                    <w>I</w>
+                </g>
+                <g>
+                    <w>couldn't</w>
+                </g>
+                <g>
+                    <w>begin</w>
+                </g>
+                <g>
+                    <w>to</w>
+                    <com type="overlap-point">overlap-point:start,top</com>
+                    <com type="long-feature,begin">long-feature,begin:X</com>
+                </g>
+                <g>
+                    <w>deal</w>
+                </g>
+                <g>
+                    <w>with</w>
+                    <com type="long-feature,end">long-feature,end:X</com>
+                </g>
+                <g>
+                    <w>the</w>
+                </g>
+                <g>
+                    <w>slightest</w>
+                </g>
+                <g>
+                    <w>pressure</w>
+                    <com type="overlap-point">overlap-point:end,top</com>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="19619.0" duration="2229.0" unitType="ms"/>
+        </u>
+        <u speaker="REED" id="12c6986a-3f37-4e00-a408-835a171d52b6" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="overlap-point">overlap-point:start,bottom</com>
+                </g>
+                <g>
+                    <w>Yeah</w>
+                    <com type="internal-media">internal-media:20.757-21.151</com>
+                    <com type="long-feature,begin">long-feature,begin:X</com>
+                </g>
+                <g>
+                    <w>give</w>
+                </g>
+                <g>
+                    <w>it</w>
+                    <com type="long-feature,end">long-feature,end:X</com>
+                </g>
+                <g>
+                    <w>easy</w>
+                </g>
+                <g>
+                    <w>easy</w>
+                    <com type="overlap-point">overlap-point:end,bottom</com>
+                    <com type="internal-media">internal-media:21.151-22.208</com>
+                </g>
+                <g>
+                    <w>yeah</w>
+                </g>
+                <g>
+                    <w>don't</w>
+                    <com type="t">t:trail off</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="22208.0" duration="476.0" unitType="ms"/>
+        </u>
+        <u speaker="DARRE" id="d276696e-af7f-47d4-83aa-f45bdf3f41bd" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com>..</com>
+                </g>
+                <g>
+                    <w>Well</w>
+                    <com type="internal-media">internal-media:23.930-24.260</com>
+                </g>
+                <g>
+                    <w>It's</w>
+                </g>
+                <g>
+                    <w>certainly</w>
+                </g>
+                <g>
+                    <w>been</w>
+                </g>
+                <g>
+                    <w>a</w>
+                    <com type="internal-media">internal-media:24.260-25.379</com>
+                    <com type="long-feature,begin">long-feature,begin:PAR</com>
+                </g>
+                <g>
+                    <w>is</w>
+                    <com type="nonvocal,begin">nonvocal,begin:THUMP_MICROPHONE</com>
+                    <e>nonvocal</e>
+                </g>
+                <g>
+                    <w>this</w>
+                    <e>nonvocal</e>
+                    <com type="long-feature,begin">long-feature,begin:X</com>
+                </g>
+                <g>
+                    <w>one</w>
+                    <com type="long-feature,end">long-feature,end:X</com>
+                </g>
+                <g>
+                    <w>working</w>
+                    <com type="nonvocal,end">nonvocal,end:THUMP_MICROPHONE</com>
+                    <com type="long-feature,end">long-feature,end:PAR</com>
+                    <com type="nonvocal,simple">nonvocal,simple:PUNCH</com>
+                    <p type="QUESTION">?</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="25379.0" duration="931.0" unitType="ms"/>
+        </u>
+    </transcript>
+</session>

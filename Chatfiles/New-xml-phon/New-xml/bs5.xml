@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="bs5" corpus="GailFranca" version="PB1.2">
+    <header>
+        <date>1984-01-01</date>
+        <language>deu eng</language>
+        <media>bs5.wav</media>
+    </header>
+    <participants>
+        <participant id="B">
+            <role>Adult</role>
+            <name>German Bierhoffer</name>
+            <language>deu eng</language>
+        </participant>
+        <participant id="S">
+            <role>Adult</role>
+            <name>Steffen Danish</name>
+            <language>deu eng</language>
+        </participant>
+        <participant id="X">
+            <role>Unidentified</role>
+            <language>deu eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers/>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Transcriber">Gail Jefferson. clanned by Kræsten Nyman and Johannes Wagner, last rev.6.5..2003</comment>
+        <comment type="Generic">Note that heritage roundtrip will be unreliable</comment>
+        <u speaker="S" id="8379bb62-c46b-4ab3-b0cb-cf0c66e2eb66" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <com type="blob">blob:=</com>
+                    <e>underline:begin</e>
+                    <com type="blob">blob:M</com>
+                    <e>underline:end</e>
+                    <com type="blob">blob:gh</com>
+                    <e>underline:begin</e>
+                    <com type="blob">blob:m</com>
+                    <e>underline:end</e>
+                    <com type="blob">blob::</com>
+                    <e>underline:begin</e>
+                    <com type="blob">blob:m</com>
+                    <e>underline:end</e>
+                    <com type="blob">blob:[</com>
+                    <e>underline:begin</e>
+                    <com type="blob">blob:m</com>
+                    <e>underline:end</e>
+                    <w>0x2197</w>
+                    <com type="t">t:missing CA terminator</com>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+        </u>
+    </transcript>
+</session>

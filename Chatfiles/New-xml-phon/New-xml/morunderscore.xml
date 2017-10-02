@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="morunderscore" corpus="belfast" version="PB1.2">
+    <header>
+        <date>1996-03-26</date>
+        <language>eng</language>
+    </header>
+    <participants>
+        <participant id="CHI">
+            <role>Target Child</role>
+            <name>Courtney</name>
+            <SES>upper-working-class</SES>
+            <birthday>1992-09-08</birthday>
+            <age>P3Y6M18DT0H0M0S</age>
+            <language>eng</language>
+        </participant>
+        <participant id="MOT">
+            <role>Mother</role>
+            <name>Tracy</name>
+            <language>eng</language>
+        </participant>
+        <participant id="INV">
+            <role>Investigator</role>
+            <name>Rose</name>
+            <language>eng</language>
+        </participant>
+        <participant id="FAT">
+            <role>Father</role>
+            <name>Tom</name>
+            <language>eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers>
+        <userTier tierName="Morphology" grouped="true"/>
+    </userTiers>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+        <tier tierName="Morphology" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Date">26-MAR-1996</comment>
+        <comment type="Situation">Did a Topsy and Tim jigsaw and then magnetic fishing. Ethan, the baby, was asleep on the settee to begin with. Tom came in briefly on his way to work. Hadn't the microphone switched on to begin with so this starts a few minutes into the visit.</comment>
+        <u speaker="INV" id="724e357c-0b4a-421c-920d-9ee7ca85b0d9" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>Ethan's</w>
+                </g>
+                <g>
+                    <w>fast</w>
+                </g>
+                <g>
+                    <w>asleep</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <groupTier tierName="Morphology">
+                <tg>
+                    <w>n:prop|Ethan~v|be&amp;3S</w>
+                </tg>
+                <tg>
+                    <w>adj|fast</w>
+                </tg>
+                <tg>
+                    <w>adv|asleep</w>
+                    <w>.</w>
+                </tg>
+            </groupTier>
+        </u>
+        <u speaker="INV" id="93971102-57be-4d89-8a67-ad4a8bcf022c" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>do</w>
+                </g>
+                <g>
+                    <w>you</w>
+                </g>
+                <g>
+                    <w>like</w>
+                </g>
+                <g>
+                    <w>having</w>
+                </g>
+                <g>
+                    <w>laces</w>
+                </g>
+                <g>
+                    <w>or</w>
+                </g>
+                <g>
+                    <w>buckles</w>
+                    <p type="QUESTION">?</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <groupTier tierName="Morphology">
+                <tg>
+                    <w>aux|do</w>
+                </tg>
+                <tg>
+                    <w>pro|you</w>
+                </tg>
+                <tg>
+                    <w>v|like</w>
+                </tg>
+                <tg>
+                    <w>part|have-PROG</w>
+                </tg>
+                <tg>
+                    <w>n|lace-PL</w>
+                </tg>
+                <tg>
+                    <w>conj:coo|or</w>
+                </tg>
+                <tg>
+                    <w>n|buckle-PL</w>
+                    <w>?</w>
+                </tg>
+            </groupTier>
+        </u>
+    </transcript>
+</session>

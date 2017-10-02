@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="mor-tags" corpus="timmy" version="PB1.2">
+    <header>
+        <date>1984-01-01</date>
+        <language>eng</language>
+    </header>
+    <participants>
+        <participant id="CHI">
+            <role>Target Child</role>
+            <name>Timmy</name>
+            <age>P2Y0M0DT0H0M0S</age>
+            <language>eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers>
+        <userTier tierName="Morphology" grouped="true"/>
+        <userTier tierName="intonation" grouped="false"/>
+    </userTiers>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+        <tier tierName="Morphology" visible="true" locked="false" font="default"/>
+        <tier tierName="intonation" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Generic">tag markers, including comma</comment>
+        <u speaker="CHI" id="fed29091-ab07-463f-97a5-de8ef96c8c64" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>it</w>
+                </g>
+                <g>
+                    <w>was</w>
+                </g>
+                <g>
+                    <w>lowering</w>
+                </g>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>concrete</w>
+                    <w>posts</w>
+                    <com>„</com>
+                    <w>wasn't</w>
+                    <w>it</w>
+                    <w>off</w>
+                    <w>a</w>
+                    <com>//</com>
+                    <p type="CLOSE_BRACE">}</p>
+                </g>
+                <g>
+                    <w>concrete</w>
+                </g>
+                <g>
+                    <w>girders</w>
+                </g>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>off</w>
+                    <w>a</w>
+                    <com>/</com>
+                    <p type="CLOSE_BRACE">}</p>
+                </g>
+                <g>
+                    <w>off</w>
+                </g>
+                <g>
+                    <w>a</w>
+                </g>
+                <g>
+                    <w>lorry</w>
+                    <p type="DOUBLE_COMMA">„</p>
+                </g>
+                <g>
+                    <w>wasn't</w>
+                </g>
+                <g>
+                    <w>it</w>
+                    <p type="QUESTION">?</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <groupTier tierName="Morphology">
+                <tg>
+                    <w>pro|it</w>
+                </tg>
+                <tg>
+                    <w>aux|be&amp;PAST&amp;13S</w>
+                </tg>
+                <tg>
+                    <w>part|lower-PROG</w>
+                </tg>
+                <tg/>
+                <tg>
+                    <w>v|concrete</w>
+                </tg>
+                <tg>
+                    <w>n:v|gird-AGT-PL</w>
+                </tg>
+                <tg/>
+                <tg>
+                    <w>prep|off</w>
+                </tg>
+                <tg>
+                    <w>det|a</w>
+                </tg>
+                <tg>
+                    <w>n|lorry</w>
+                    <w>end|end</w>
+                </tg>
+                <tg>
+                    <w>v|be&amp;PAST&amp;13S~neg|not</w>
+                </tg>
+                <tg>
+                    <w>pro|it</w>
+                    <w>?</w>
+                </tg>
+            </groupTier>
+        </u>
+        <u speaker="CHI" id="bc810807-241c-4325-9609-3a14784c4b2b" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>it</w>
+                </g>
+                <g>
+                    <w>was</w>
+                </g>
+                <g>
+                    <w>lowering</w>
+                </g>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>concrete</w>
+                    <w>posts</w>
+                    <com>‡</com>
+                    <w>wasn't</w>
+                    <w>it</w>
+                    <w>off</w>
+                    <w>a</w>
+                    <com>//</com>
+                    <p type="CLOSE_BRACE">}</p>
+                </g>
+                <g>
+                    <w>concrete</w>
+                </g>
+                <g>
+                    <w>girders</w>
+                </g>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>off</w>
+                    <w>a</w>
+                    <com>/</com>
+                    <p type="CLOSE_BRACE">}</p>
+                </g>
+                <g>
+                    <w>off</w>
+                </g>
+                <g>
+                    <w>a</w>
+                </g>
+                <g>
+                    <w>lorry</w>
+                    <p type="DOUBLE_DAGGER">‡</p>
+                </g>
+                <g>
+                    <w>wasn't</w>
+                </g>
+                <g>
+                    <w>it</w>
+                    <p type="QUESTION">?</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <flatTier tierName="intonation">„ ‡</flatTier>
+            <groupTier tierName="Morphology">
+                <tg>
+                    <w>pro|it</w>
+                </tg>
+                <tg>
+                    <w>aux|be&amp;PAST&amp;13S</w>
+                </tg>
+                <tg>
+                    <w>part|lower-PROG</w>
+                </tg>
+                <tg/>
+                <tg>
+                    <w>v|concrete</w>
+                </tg>
+                <tg>
+                    <w>n:v|gird-AGT-PL</w>
+                </tg>
+                <tg/>
+                <tg>
+                    <w>prep|off</w>
+                </tg>
+                <tg>
+                    <w>det|a</w>
+                </tg>
+                <tg>
+                    <w>n|lorry</w>
+                    <w>beg|beg</w>
+                </tg>
+                <tg>
+                    <w>v|be&amp;PAST&amp;13S~neg|not</w>
+                </tg>
+                <tg>
+                    <w>pro|it</w>
+                    <w>?</w>
+                </tg>
+            </groupTier>
+        </u>
+        <u speaker="CHI" id="6e63802d-6f8c-4b16-bf70-9b9b33dfb3e3" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>it</w>
+                </g>
+                <g>
+                    <w>was</w>
+                </g>
+                <g>
+                    <w>lowering</w>
+                </g>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>concrete</w>
+                    <w>posts</w>
+                    <com>,</com>
+                    <w>wasn't</w>
+                    <w>it</w>
+                    <w>off</w>
+                    <w>a</w>
+                    <com>//</com>
+                    <p type="CLOSE_BRACE">}</p>
+                </g>
+                <g>
+                    <w>concrete</w>
+                </g>
+                <g>
+                    <w>girders</w>
+                </g>
+                <g>
+                    <p type="OPEN_BRACE">{</p>
+                    <w>off</w>
+                    <w>a</w>
+                    <com>/</com>
+                    <p type="CLOSE_BRACE">}</p>
+                </g>
+                <g>
+                    <w>off</w>
+                </g>
+                <g>
+                    <w>a</w>
+                </g>
+                <g>
+                    <w>lorry</w>
+                    <p type="COMMA">,</p>
+                </g>
+                <g>
+                    <w>wasn't</w>
+                </g>
+                <g>
+                    <w>it</w>
+                    <p type="QUESTION">?</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <groupTier tierName="Morphology">
+                <tg>
+                    <w>pro|it</w>
+                </tg>
+                <tg>
+                    <w>aux|be&amp;PAST&amp;13S</w>
+                </tg>
+                <tg>
+                    <w>part|lower-PROG</w>
+                </tg>
+                <tg/>
+                <tg>
+                    <w>v|concrete</w>
+                </tg>
+                <tg>
+                    <w>n:v|gird-AGT-PL</w>
+                </tg>
+                <tg/>
+                <tg>
+                    <w>prep|off</w>
+                </tg>
+                <tg>
+                    <w>det|a</w>
+                </tg>
+                <tg>
+                    <w>n|lorry</w>
+                    <w>cm|cm</w>
+                </tg>
+                <tg>
+                    <w>v|be&amp;PAST&amp;13S~neg|not</w>
+                </tg>
+                <tg>
+                    <w>pro|it</w>
+                    <w>?</w>
+                </tg>
+            </groupTier>
+        </u>
+    </transcript>
+</session>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="com-more" corpus="providence" version="PB1.2">
+    <header>
+        <date>1984-01-01</date>
+        <language>eng</language>
+    </header>
+    <participants>
+        <participant id="TXT">
+            <role>Text</role>
+            <sex>female</sex>
+            <age>P1Y9M8DT0H0M0S</age>
+            <language>eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers/>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <u speaker="TXT" id="928ffa13-5888-4c31-b0ec-905a092c21f5" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>text</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <notes tierName="Notes">TTHIS can (happen) in "quotes" or even with !! sometimes.</notes>
+        </u>
+        <u speaker="TXT" id="3818d60f-e2be-4e56-8565-cdd84a407279" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>text</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <notes tierName="Notes">a-a-and - -- we get *** /this\ or #{this} with @^$ + and the rest.</notes>
+        </u>
+        <u speaker="TXT" id="77e6ebf6-0eca-4a6b-b2f9-ddc7aba0412a" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>text</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <notes tierName="Notes">then there is IPA ɟɮɬːɟɮːɬʉɨɤθ and so on</notes>
+        </u>
+        <u speaker="TXT" id="a93d8ba7-f1f9-4ce3-9a8c-6493065fa6c7" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>text</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <notes tierName="Notes">and there are the CA characters ↓↑∆∇t☺ and so on (see manual)</notes>
+        </u>
+        <u speaker="TXT" id="4fe1d65b-686f-49c0-8efe-593289ea7847" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>text</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <notes tierName="Notes">and CJK 阿萨德</notes>
+        </u>
+        <u speaker="TXT" id="0fa87a76-6abc-4e66-9ca6-dd21faf39785" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>text</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <notes tierName="Notes">there are extended Latin characters ňŝâ, and Greek ζΫβ, Cyrillic чДЋ, Hebrew דים, and some هإكآday we will have Arabic etc.</notes>
+        </u>
+    </transcript>
+</session>

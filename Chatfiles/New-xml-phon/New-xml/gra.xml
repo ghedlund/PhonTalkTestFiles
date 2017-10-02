@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<session xmlns="http://phon.ling.mun.ca/ns/phonbank" id="gra" corpus="brown" version="PB1.2">
+    <header>
+        <date>1962-10-15</date>
+        <language>eng</language>
+    </header>
+    <participants>
+        <participant id="CHI">
+            <role>Target Child</role>
+            <name>Eve</name>
+            <sex>female</sex>
+            <age>P1Y6M0DT0H0M0S</age>
+            <language>eng</language>
+        </participant>
+        <participant id="MOT">
+            <role>Mother</role>
+            <name>Sue</name>
+            <language>eng</language>
+        </participant>
+        <participant id="COL">
+            <role>Investigator</role>
+            <name>Colin</name>
+            <language>eng</language>
+        </participant>
+        <participant id="RIC">
+            <role>Investigator</role>
+            <name>Richard</name>
+            <language>eng</language>
+        </participant>
+    </participants>
+    <transcribers/>
+    <userTiers>
+        <userTier tierName="GRASP" grouped="true"/>
+        <userTier tierName="trn" grouped="true"/>
+        <userTier tierName="Postcode" grouped="false"/>
+        <userTier tierName="Morphology" grouped="true"/>
+    </userTiers>
+    <tierOrder>
+        <tier tierName="Orthography" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Target" visible="true" locked="false" font="default"/>
+        <tier tierName="IPA Actual" visible="true" locked="false" font="default"/>
+        <tier tierName="Notes" visible="true" locked="false" font="default"/>
+        <tier tierName="Segment" visible="true" locked="false" font="default"/>
+        <tier tierName="GRASP" visible="true" locked="false" font="default"/>
+        <tier tierName="trn" visible="true" locked="false" font="default"/>
+        <tier tierName="Postcode" visible="true" locked="false" font="default"/>
+        <tier tierName="Morphology" visible="true" locked="false" font="default"/>
+    </tierOrder>
+    <transcript>
+        <comment type="Date">15-OCT-1962</comment>
+        <comment type="Generic">simplest gra</comment>
+        <u speaker="CHI" id="9ed70796-17df-47c2-87eb-60b7a4e7cdd9" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>more</w>
+                </g>
+                <g>
+                    <w>cookie</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <flatTier tierName="Postcode">IMP</flatTier>
+            <groupTier tierName="trn">
+                <tg>
+                    <w>qn|more</w>
+                </tg>
+                <tg>
+                    <w>n|cookie</w>
+                    <w>.</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="GRASP">
+                <tg>
+                    <w>1|2|QUANT</w>
+                </tg>
+                <tg>
+                    <w>2|0|ROOT</w>
+                    <w>3|2|PUNCT</w>
+                </tg>
+            </groupTier>
+        </u>
+        <comment type="Generic">with postclitic</comment>
+        <u speaker="MOT" id="1c3b3f30-b6e7-4684-9b5a-b485d82d222e" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>where's</w>
+                </g>
+                <g>
+                    <w>your</w>
+                </g>
+                <g>
+                    <w>cup</w>
+                    <p type="QUESTION">?</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <groupTier tierName="Morphology">
+                <tg>
+                    <w>adv:wh|where~v:cop|be&amp;3S</w>
+                </tg>
+                <tg>
+                    <w>pro:poss:det|your</w>
+                </tg>
+                <tg>
+                    <w>n|cup</w>
+                    <w>?</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="GRASP">
+                <tg>
+                    <w>1|2|PRED</w>
+                    <w>2|0|ROOT</w>
+                </tg>
+                <tg>
+                    <w>3|4|MOD</w>
+                </tg>
+                <tg>
+                    <w>4|2|SUBJ</w>
+                    <w>5|2|PUNCT</w>
+                </tg>
+            </groupTier>
+        </u>
+        <comment type="Generic">with compound</comment>
+        <u speaker="CHI" id="b7e2d7ba-e5bf-4d41-9540-48436cc68ae9" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>ice+cream</w>
+                    <p type="PERIOD">.</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <groupTier tierName="Morphology">
+                <tg>
+                    <w>n|+n|ice+n|cream</w>
+                    <w>.</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="GRASP">
+                <tg>
+                    <w>1|0|ROOT</w>
+                    <w>2|1|PUNCT</w>
+                </tg>
+            </groupTier>
+        </u>
+        <comment type="Generic">with compound and postclitic</comment>
+        <u speaker="MOT" id="c1210a41-2db3-4516-a6e2-ce7103fbf3d6" excludeFromSearches="false">
+            <orthography>
+                <g>
+                    <w>you</w>
+                </g>
+                <g>
+                    <w>gonna</w>
+                </g>
+                <g>
+                    <w>put</w>
+                </g>
+                <g>
+                    <w>the</w>
+                </g>
+                <g>
+                    <w>choo+choo's</w>
+                </g>
+                <g>
+                    <w>wheel</w>
+                </g>
+                <g>
+                    <w>on</w>
+                    <p type="QUESTION">?</p>
+                </g>
+            </orthography>
+            <ipaTier form="model">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <ipaTier form="actual">
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+                <pg>
+                    <w></w>
+                    <sb/>
+                </pg>
+            </ipaTier>
+            <alignment type="segmental">
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+                <ag length="0"/>
+            </alignment>
+            <segment startTime="0.0" duration="0.0" unitType="ms"/>
+            <groupTier tierName="Morphology">
+                <tg>
+                    <w>pro|you</w>
+                </tg>
+                <tg>
+                    <w>part|go-PROG~inf|to</w>
+                </tg>
+                <tg>
+                    <w>v|put&amp;ZERO</w>
+                </tg>
+                <tg>
+                    <w>det|the</w>
+                </tg>
+                <tg>
+                    <w>n|+on|choo+on|choo~v:cop|be&amp;3S</w>
+                </tg>
+                <tg>
+                    <w>n|wheel</w>
+                </tg>
+                <tg>
+                    <w>adv:loc|on</w>
+                    <w>?</w>
+                </tg>
+            </groupTier>
+            <groupTier tierName="GRASP">
+                <tg>
+                    <w>1|2|SUBJ</w>
+                </tg>
+                <tg>
+                    <w>2|0|ROOT</w>
+                    <w>3|4|INF</w>
+                </tg>
+                <tg>
+                    <w>4|2|XCOMP</w>
+                </tg>
+                <tg>
+                    <w>5|6|DET</w>
+                </tg>
+                <tg>
+                    <w>6|7|SUBJ</w>
+                    <w>7|4|OBJ</w>
+                </tg>
+                <tg>
+                    <w>8|7|PRED</w>
+                </tg>
+                <tg>
+                    <w>9|8|JCT</w>
+                    <w>10|2|PUNCT</w>
+                </tg>
+            </groupTier>
+        </u>
+    </transcript>
+</session>
