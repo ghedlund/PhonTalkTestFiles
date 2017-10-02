@@ -1,0 +1,22 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	CHI Alex Target_Child
+@ID:	eng|Test|CHI|2;5.17|male|||Target_Child|||
+@Birth of CHI:	13-JAN-1997
+@Date:	30-JUN-1999
+*CHI:	word [?] .
+*CHI:	0 [= did nothing] .
+*CHI:	word [= did something] .
+*CHI:	year &='91 bar .
+*CHI:	I have &=foo:bar:baz .
+*CHI:	I have &=$ &=5 million .
+*CHI:	foo &au^bg bar &foo::bar &foo:: .
+*CHI:	foo &=head:no bar .
+*CHI:	foo &=head [= head] bar .
+*CHI:	foo &=1 bar .
+*CHI:	'er is he:' .
+*CHI:	&gʰan .
+*CHI:	This is a test of bck .
+*CHI:	what [^c] why now ?
+@End

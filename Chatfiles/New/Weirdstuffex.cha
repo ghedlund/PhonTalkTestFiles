@@ -1,0 +1,30 @@
+@UTF8
+@Begin
+@Languages:	fra, eng
+@Participants:	CHI Child Target_Child, MOT Mom Mother, OBS Camera Observer
+@ID:	fra, eng|Test|CHI|5;1.1|female|||Target_Child|||
+@ID:	fra, eng|Test|MOT|30;1.1|female|||Mother|||
+@ID:	fra, eng|Test|OBS|40;1.1|female|||Observer|||
+@Birth of CHI:	24-JUL-2006
+@Birth of MOT:	12-DEC-1980
+@Birth of OBS:	01-JAN-1970
+@Media:	31, video, missing
+@Location:	CHI's home
+@Comment:	coder - Françoise Bourdoux (June 2012) - Gabrielle Miesse (August 2012)
+@Situation:	MOT et CHI sont filmées par OBS
+@Date:	14-SEP-2011
+*CHI:	euh ‹<0il y en a> [//]› ‹<y a> [/]› ‹y a› une photo +... 1760009_1767134
+%mor:	co|euh pro:y|y v:aux|avoir&PRES&3s det|une&f&sg n|photo&f +...
+%pho:	əh jɑ̃na ja ja yn fɔtɔ
+%act:	CHI prend une posture de singe
+*CHI:	‹euh (.)› euh .
+%mor:	co|euh co|euh .
+%pho:	‹əh (.)› əh
+*CHI:	0il ‹y a› .
+%pho:	ja
+%com:	Other potential orthography: ‹0il y a›
+*CHI:	<the word> [//] <word> [/] word .
+%mor:	n|word .
+%pho:	ðə wʌɹd wʌɹd wʌɹd
+%com:	notice words in <> are omitted in mor, not in pho
+@End
